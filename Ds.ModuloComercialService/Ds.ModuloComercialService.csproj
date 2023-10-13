@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FCCFF44-9DAB-491F-8CAB-1E358D69694F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ds.ModuloService</RootNamespace>
+    <AssemblyName>Ds.ModuloService</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ds.Library\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Messages\getTarjetas_Request.cs" />
+    <Compile Include="Messages\getTarjetas_Response.cs" />
+    <Compile Include="Messages\setRegistrarConvenioAplicado_Request.cs" />
+    <Compile Include="Messages\setRegistrarConvenioAplicado_Response.cs" />
+    <Compile Include="Messages\getFecha_Request.cs" />
+    <Compile Include="Messages\getFecha_Response.cs" />
+    <Compile Include="Messages\getValidarTransaccion_Request.cs" />
+    <Compile Include="Messages\getValidarTransaccion_Response.cs" />
+    <Compile Include="Messages\getInfoAutorizado_Request.cs" />
+    <Compile Include="Messages\getInfoAutorizado_Response.cs" />
+    <Compile Include="Messages\getValidarConvenio_Request.cs" />
+    <Compile Include="Messages\getValidarConvenio_Response.cs" />
+    <Compile Include="Messages\setRegistrarConvenioValidado_Request.cs" />
+    <Compile Include="Messages\setRegistrarConvenioValidado_Response.cs" />
+    <Compile Include="Messages\getDatosConvenio_Request.cs" />
+    <Compile Include="Messages\getDatosConvenio_Response.cs" />
+    <Compile Include="Messages\getCityParking_Request.cs" />
+    <Compile Include="Messages\getCityParking_Response.cs" />
+    <Compile Include="Messages\setCliente_Request.cs" />
+    <Compile Include="Messages\setCliente_Response.cs" />
+    <Compile Include="Messages\getValidarCliente_Request.cs" />
+    <Compile Include="Messages\getValidarCliente_Response.cs" />
+    <Compile Include="Messages\setMonitoreo_Request.cs" />
+    <Compile Include="Messages\setMonitoreo_Response.cs" />
+    <Compile Include="Messages\getInformacionFactura_Request.cs" />
+    <Compile Include="Messages\getInformacionFactura_Response.cs" />
+    <Compile Include="Messages\getDetalleArqueo_Request.cs" />
+    <Compile Include="Messages\getDetalleArqueo_Response.cs" />
+    <Compile Include="Messages\setActualizarRegistro_Request.cs" />
+    <Compile Include="Messages\setActualizarRegistro_Response.cs" />
+    <Compile Include="Messages\getMovimientosOffline_Request.cs" />
+    <Compile Include="Messages\getMovimientosOffline_Response.cs" />
+    <Compile Include="Messages\getPagosOffline_Request.cs" />
+    <Compile Include="Messages\getPagosOffline_Response.cs" />
+    <Compile Include="Messages\getTransaccionesOfflineModulo_Request.cs" />
+    <Compile Include="Messages\getTransaccionesOfflineModulo_Response.cs" />
+    <Compile Include="Messages\getValidarSegundaClave_Request.cs" />
+    <Compile Include="Messages\getValidarSegundaClave_Response.cs" />
+    <Compile Include="Messages\getLogMovimiento_Request.cs" />
+    <Compile Include="Messages\getLogMovimiento_Response.cs" />
+    <Compile Include="Messages\getIdTransacciones_Request.cs" />
+    <Compile Include="Messages\getIdTransacciones_Response.cs" />
+    <Compile Include="Messages\setInsertarConfirmacion_Request.cs" />
+    <Compile Include="Messages\setInsertarConfirmacion_Response.cs" />
+    <Compile Include="Messages\getInformacionModulo_Request.cs" />
+    <Compile Include="Messages\getInformacionModulo_Response.cs" />
+    <Compile Include="Messages\getObtenerSaldosPartes_Request.cs" />
+    <Compile Include="Messages\getObtenerSaldosPartes_Response.cs" />
+    <Compile Include="Messages\getObtenerUsuario_Request.cs" />
+    <Compile Include="Messages\getObtenerUsuario_Response.cs" />
+    <Compile Include="Messages\getParametrosModulo_Request.cs" />
+    <Compile Include="Messages\getParametrosModulo_Response.cs" />
+    <Compile Include="Messages\getPartesModulo_Request.cs" />
+    <Compile Include="Messages\getPartesModulo_Response.cs" />
+    <Compile Include="Messages\getValidarClave_Request.cs" />
+    <Compile Include="Messages\getValidarClave_Response.cs" />
+    <Compile Include="Messages\getValidarSaldosMinimos_Request.cs" />
+    <Compile Include="Messages\getValidarSaldosMinimos_Response.cs" />
+    <Compile Include="Messages\setConfirmarOperacion_Request.cs" />
+    <Compile Include="Messages\setConfirmarOperacion_Response.cs" />
+    <Compile Include="Messages\setCrearAlarma_Request.cs" />
+    <Compile Include="Messages\setCrearAlarma_Response.cs" />
+    <Compile Include="Messages\setCrearLogWS_Request.cs" />
+    <Compile Include="Messages\setCrearLogWS_Response.cs" />
+    <Compile Include="Messages\setGenerarClave_Request.cs" />
+    <Compile Include="Messages\setGenerarClave_Response.cs" />
+    <Compile Include="Messages\setRegistrarMovimiento_Request.cs" />
+    <Compile Include="Messages\setRegistrarMovimiento_Response.cs" />
+    <Compile Include="Messages\setRegistrarOperacion_Request.cs" />
+    <Compile Include="Messages\setRegistrarOperacion_Response.cs" />
+    <Compile Include="Messages\setRegistrarTransaccion_Request.cs" />
+    <Compile Include="Messages\setRegistrarTransaccion_Response.cs" />
+    <Compile Include="Messages\setSolucionarAlarma_Request.cs" />
+    <Compile Include="Messages\setSolucionarAlarma_Response.cs" />
+    <Compile Include="Messages\setSolucionarTodasAlarmas_Request.cs" />
+    <Compile Include="Messages\setSolucionarTodasAlarmas_Response.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceContracts\IModuloService.cs" />
+    <Compile Include="ServiceImplementations\ModuloService.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Ds.BaseService\Ds.BaseService.csproj">
+      <Project>{7475836b-b40d-4dd1-aa02-76d28506942a}</Project>
+      <Name>Ds.BaseService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.BusinessService\Ds.BusinessService.csproj">
+      <Project>{2df76ca1-cb45-4509-a1b1-40757d1991a7}</Project>
+      <Name>Ds.BusinessService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.DataService\Ds.DataService.csproj">
+      <Project>{7cb50bcf-51fc-4d90-a3de-52474ab35d6a}</Project>
+      <Name>Ds.DataService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

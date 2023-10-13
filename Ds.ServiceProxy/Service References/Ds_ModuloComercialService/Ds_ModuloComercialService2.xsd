@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd2" namespace="http://www.dsystem.co/types/" />
+  <xs:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd7" namespace="http://www.dsystem.com/types/" />
+  <xs:element name="getInformacionModulo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q1:getInformacionModulo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInformacionModuloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://www.dsystem.co/types/" minOccurs="0" name="getInformacionModuloResult" nillable="true" type="q2:getInformacionModulo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInformacionFactura">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q3:getInformacionFactura_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInformacionFacturaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://www.dsystem.co/types/" minOccurs="0" name="getInformacionFacturaResult" nillable="true" type="q4:getInformacionFactura_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPartesModulo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q5:getPartesModulo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPartesModuloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://www.dsystem.co/types/" minOccurs="0" name="getPartesModuloResult" nillable="true" type="q6:getPartesModulo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPartesF56Modulo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q7:getPartesModulo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPartesF56ModuloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://www.dsystem.co/types/" minOccurs="0" name="getPartesF56ModuloResult" nillable="true" type="q8:getPartesModulo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getParametrosModulo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q9:getParametrosModulo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getParametrosModuloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://www.dsystem.co/types/" minOccurs="0" name="getParametrosModuloResult" nillable="true" type="q10:getParametrosModulo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarSaldosMinimos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q11:getValidarSaldosMinimos_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarSaldosMinimosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://www.dsystem.co/types/" minOccurs="0" name="getValidarSaldosMinimosResult" nillable="true" type="q12:getValidarSaldosMinimos_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarOperacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q13:setRegistrarOperacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarOperacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarOperacionResult" nillable="true" type="q14:setRegistrarOperacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarArqueo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q15:setRegistrarOperacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarArqueoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarArqueoResult" nillable="true" type="q16:setRegistrarOperacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarCarga">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q17:setRegistrarOperacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarCargaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarCargaResult" nillable="true" type="q18:setRegistrarOperacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarMovimiento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q19="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q19:setRegistrarMovimiento_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarMovimientoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q20="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarMovimientoResult" nillable="true" type="q20:setRegistrarMovimiento_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getObtenerSaldosPartes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q21="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q21:getObtenerSaldosPartes_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getObtenerSaldosPartesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q22="http://www.dsystem.co/types/" minOccurs="0" name="getObtenerSaldosPartesResult" nillable="true" type="q22:getObtenerSaldosPartes_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setConfirmarOperacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q23="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q23:setConfirmarOperacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setConfirmarOperacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q24="http://www.dsystem.co/types/" minOccurs="0" name="setConfirmarOperacionResult" nillable="true" type="q24:setConfirmarOperacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getObtenerUsuario">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q25="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q25:getObtenerUsuario_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getObtenerUsuarioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://www.dsystem.co/types/" minOccurs="0" name="getObtenerUsuarioResult" nillable="true" type="q26:getObtenerUsuario_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setGenerarClave">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q27="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q27:setGenerarClave_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setGenerarClaveResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q28="http://www.dsystem.co/types/" minOccurs="0" name="setGenerarClaveResult" nillable="true" type="q28:setGenerarClave_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarClave">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q29="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q29:getValidarClave_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarClaveResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q30="http://www.dsystem.co/types/" minOccurs="0" name="getValidarClaveResult" nillable="true" type="q30:getValidarClave_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getToken">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q31="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q31:getValidarClave_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTokenResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q32="http://www.dsystem.co/types/" minOccurs="0" name="getTokenResult" nillable="true" type="q32:getValidarClave_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCrearAlarma">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q33="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q33:setCrearAlarma_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCrearAlarmaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q34="http://www.dsystem.co/types/" minOccurs="0" name="setCrearAlarmaResult" nillable="true" type="q34:setCrearAlarma_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setSolucionarAlarma">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q35="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q35:setSolucionarAlarma_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setSolucionarAlarmaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q36="http://www.dsystem.co/types/" minOccurs="0" name="setSolucionarAlarmaResult" nillable="true" type="q36:setSolucionarAlarma_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setSolucionarTodasAlarmas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q37="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q37:setSolucionarTodasAlarmas_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setSolucionarTodasAlarmasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q38="http://www.dsystem.co/types/" minOccurs="0" name="setSolucionarTodasAlarmasResult" nillable="true" type="q38:setSolucionarTodasAlarmas_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCrearLogWS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q39="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q39:setCrearLogWS_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCrearLogWSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q40="http://www.dsystem.co/types/" minOccurs="0" name="setCrearLogWSResult" nillable="true" type="q40:setCrearLogWS_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setInsertarConfirmacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q41="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q41:setInsertarConfirmacion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setInsertarConfirmacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q42="http://www.dsystem.co/types/" minOccurs="0" name="setInsertarConfirmacionResult" nillable="true" type="q42:setInsertarConfirmacion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIdTransacciones">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q43="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q43:getIdTransacciones_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIdTransaccionesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q44="http://www.dsystem.co/types/" minOccurs="0" name="getIdTransaccionesResult" nillable="true" type="q44:getIdTransacciones_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getLogMovimiento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q45="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q45:getLogMovimiento_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getLogMovimientoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q46="http://www.dsystem.co/types/" minOccurs="0" name="getLogMovimientoResult" nillable="true" type="q46:getLogMovimiento_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarSegundaClave">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q47="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q47:getValidarSegundaClave_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarSegundaClaveResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q48="http://www.dsystem.co/types/" minOccurs="0" name="getValidarSegundaClaveResult" nillable="true" type="q48:getValidarSegundaClave_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTransaccionesOfflineModulo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q49="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q49:getTransaccionesOfflineModulo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTransaccionesOfflineModuloResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q50="http://www.dsystem.co/types/" minOccurs="0" name="getTransaccionesOfflineModuloResult" nillable="true" type="q50:getTransaccionesOfflineModulo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPagosOffline">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q51="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q51:getPagosOffline_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getPagosOfflineResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q52="http://www.dsystem.com/types/" minOccurs="0" name="getPagosOfflineResult" nillable="true" type="q52:getPagosOffline_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getLogMovimientoOffline">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q53="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q53:getMovimientosOffline_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getLogMovimientoOfflineResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q54="http://www.dsystem.co/types/" minOccurs="0" name="getLogMovimientoOfflineResult" nillable="true" type="q54:getMovimientosOffline_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setActualizarRegistro">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q55="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q55:setActualizarRegistro_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setActualizarRegistroResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q56="http://www.dsystem.co/types/" minOccurs="0" name="setActualizarRegistroResult" nillable="true" type="q56:setActualizarRegistro_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDetalleArqueo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q57="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q57:getDetalleArqueo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDetalleArqueoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q58="http://www.dsystem.co/types/" minOccurs="0" name="getDetalleArqueoResult" nillable="true" type="q58:getDetalleArqueo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetMonitoreo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q59="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q59:setMonitoreo_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SetMonitoreoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q60="http://www.dsystem.co/types/" minOccurs="0" name="SetMonitoreoResult" nillable="true" type="q60:setMonitoreo_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setCliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q61="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q61:setCliente_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setClienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q62="http://www.dsystem.co/types/" minOccurs="0" name="setClienteResult" nillable="true" type="q62:setCliente_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarCliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q63="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q63:getValidarCliente_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarClienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q64="http://www.dsystem.co/types/" minOccurs="0" name="getValidarClienteResult" nillable="true" type="q64:getValidarCliente_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaValor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q65="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q65:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaValorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q66="http://www.dsystem.co/types/" minOccurs="0" name="getConsultaValorResult" nillable="true" type="q66:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaPagoCelular">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q67="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q67:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaPagoCelularResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q68="http://www.dsystem.co/types/" minOccurs="0" name="getConsultaPagoCelularResult" nillable="true" type="q68:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoCelular">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q69="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q69:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoCelularResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q70="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPagoCelularResult" nillable="true" type="q70:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoEfectivo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q71="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q71:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoEfectivoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q72="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPagoEfectivoResult" nillable="true" type="q72:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoDatafono">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q73="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q73:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoDatafonoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q74="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPagoDatafonoResult" nillable="true" type="q74:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoPrepago">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q75="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q75:getCityParking_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPagoPrepagoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q76="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPagoPrepagoResult" nillable="true" type="q76:getCityParking_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConvenio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q77="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q77:getDatosConvenio_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDatosConvenioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q78="http://www.dsystem.co/types/" minOccurs="0" name="getDatosConvenioResult" nillable="true" type="q78:getDatosConvenio_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarConvenioValidado">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q79="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q79:setRegistrarConvenioValidado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarConvenioValidadoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q80="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarConvenioValidadoResult" nillable="true" type="q80:setRegistrarConvenioValidado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarConvenio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q81="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q81:getValidarConvenio_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarConvenioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q82="http://www.dsystem.co/types/" minOccurs="0" name="getValidarConvenioResult" nillable="true" type="q82:getValidarConvenio_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfoAutorizado">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q83="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q83:getInfoAutorizado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfoAutorizadoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q84="http://www.dsystem.co/types/" minOccurs="0" name="getInfoAutorizadoResult" nillable="true" type="q84:getInfoAutorizado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarTransaccion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q85="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q85:getValidarTransaccion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarTransaccionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q86="http://www.dsystem.co/types/" minOccurs="0" name="getValidarTransaccionResult" nillable="true" type="q86:getValidarTransaccion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTransaccionEntrada">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q87="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q87:setRegistrarTransaccion_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTransaccionEntradaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q88="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarTransaccionEntradaResult" nillable="true" type="q88:setRegistrarTransaccion_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getFecha">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q89="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q89:getFecha_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getFechaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q90="http://www.dsystem.co/types/" minOccurs="0" name="getFechaResult" nillable="true" type="q90:getFecha_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarConvenioAplicado">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q91="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q91:setRegistrarConvenioAplicado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarConvenioAplicadoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q92="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarConvenioAplicadoResult" nillable="true" type="q92:setRegistrarConvenioAplicado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTiempoGracia">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q93="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q93:setRegistrarConvenioAplicado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTiempoGraciaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q94="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarTiempoGraciaResult" nillable="true" type="q94:setRegistrarConvenioAplicado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getFechaConvenio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q95="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q95:getFecha_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getFechaConvenioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q96="http://www.dsystem.co/types/" minOccurs="0" name="getFechaConvenioResult" nillable="true" type="q96:getFecha_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTarjetas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q97="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q97:getTarjetas_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTarjetasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q98="http://www.dsystem.co/types/" minOccurs="0" name="getTarjetasResult" nillable="true" type="q98:getTarjetas_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaPlaca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q99="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q99:getIdTransacciones_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getConsultaPlacaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q100="http://www.dsystem.co/types/" minOccurs="0" name="getConsultaPlacaResult" nillable="true" type="q100:getIdTransacciones_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPIN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q101="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q101:setRegistrarConvenioAplicado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPINResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q102="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPINResult" nillable="true" type="q102:setRegistrarConvenioAplicado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarPIN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q103="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q103:getValidarConvenio_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarPINResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q104="http://www.dsystem.co/types/" minOccurs="0" name="getValidarPINResult" nillable="true" type="q104:getValidarConvenio_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPAGOPIN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q105="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q105:setRegistrarConvenioAplicado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarPAGOPINResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q106="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarPAGOPINResult" nillable="true" type="q106:setRegistrarConvenioAplicado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTansaccionEvento">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q107="http://www.dsystem.co/types/" minOccurs="0" name="request" nillable="true" type="q107:setRegistrarConvenioAplicado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setRegistrarTansaccionEventoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q108="http://www.dsystem.co/types/" minOccurs="0" name="setRegistrarTansaccionEventoResult" nillable="true" type="q108:setRegistrarConvenioAplicado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

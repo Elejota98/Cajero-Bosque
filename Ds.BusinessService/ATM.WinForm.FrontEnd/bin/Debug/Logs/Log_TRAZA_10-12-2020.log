@@ -1,0 +1,62 @@
+2020/12/10 03:10:56.468 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:11:02.425 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:11:02.425 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:11:32.968 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:11:37.111 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:11:37.112 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:14:25.327 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:14:30.028 - MENSAJE: Error Presenter-ObtenerInfoModulo: Error conexion Modulo Service
+2020/12/10 03:14:30.029 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:15:37.492 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:15:42.515 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:15:42.516 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:17:50.568 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:17:53.686 - MENSAJE: Error Presenter-ObtenerInfoModulo: Error conexion Modulo Service
+2020/12/10 03:17:53.687 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:19:01.642 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:19:05.434 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:19:05.435 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:20:49.230 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:20:53.728 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:20:53.729 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:21:41.497 - MENSAJE: INICIO APP ATM / TestMode = false
+2020/12/10 03:21:44.817 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:21:44.818 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:36:15.991 - MENSAJE: INICIO APP ATM / TestMode = false
+2020/12/10 03:36:19.911 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:36:19.911 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:39:48.733 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:40:11.685 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:40:11.686 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:42:01.380 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:42:01.381 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:42:24.023 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:42:30.538 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2020/12/10 03:42:30.539 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/12/10 03:44:23.976 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/12/10 03:44:55.533 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/12/10 03:44:55.591 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/12/10 03:44:55.657 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/12/10 03:44:55.718 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/12/10 03:44:56.196 - MENSAJE: Presenter-ConectarLector OK
+2020/12/10 03:45:11.450 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/12/10 03:45:11.451 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/12/10 03:45:11.463 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/12/10 03:45:30.542 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/12/10 03:45:36.530 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/12/10 03:48:32.048 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/12/10 03:48:32.050 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/12/10 03:49:07.000 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/12/10 03:49:07.002 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/12/10 03:49:07.070 - MENSAJE: TARJETA ESTADO TRUE
+2020/12/10 03:49:07.466 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3BC9979
+2020/12/10 03:49:07.548 - MENSAJE: ObtenerAutorizado Error
+2020/12/10 03:49:07.588 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/12/10 03:49:07.735 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202012092002003015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/12/10 03:49:09.322 - MENSAJE: Presenter-ConsultaValor ok 
+2020/12/10 03:49:09.326 - MENSAJE: Presenter-IVA 607 SUBTOTAL 3193 TOTAL 3800
+2020/12/10 03:49:09.484 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202012092002003015
+2020/12/10 03:49:09.485 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3800
+2020/12/10 03:49:12.894 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/12/10 03:49:13.098 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/12/10 03:49:13.108 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

@@ -1,0 +1,53 @@
+2020/10/08 08:35:32.909 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/08 08:35:43.941 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/08 08:35:44.051 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/08 08:35:44.142 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/08 08:35:44.205 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/08 08:35:44.354 - MENSAJE: Presenter-ConectarLector OK
+2020/10/08 08:36:20.308 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/08 08:36:24.707 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/08 08:36:44.591 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/08 08:37:42.262 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/08 08:37:42.409 - MENSAJE: Presenter-DatosConvenio
+2020/10/08 08:37:42.419 - MENSAJE: Presenter-DatosConvenio error
+2020/10/08 08:37:42.774 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 73477E91
+2020/10/08 08:37:43.071 - MENSAJE: ObtenerAutorizado Error
+2020/10/08 08:37:43.134 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020100808372611 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/08 08:37:50.686 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/08 08:37:50.695 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/08 08:37:50.702 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/10/08 08:37:51.131 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020100808372611
+2020/10/08 08:37:51.141 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/10/08 08:38:22.320 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/08 08:38:22.480 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/08 08:38:22.490 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/08 08:38:22.500 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/08 08:38:27.041 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/08 08:38:27.068 - CalcularPago Billetero Serial: Denominacion1: 1 Cantidad1: 1 Denominacion2: 0 Cantidad2: 0 Denominacion3: 0 Cantidad3: 0
+2020/10/08 08:38:34.064 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/08 08:38:40.697 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/10/08 08:38:46.130 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/08 08:38:56.939 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/08 08:56:57.861 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/08 08:57:03.845 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/08 08:57:03.931 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/08 08:57:04.000 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/08 08:57:04.070 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/08 08:57:04.225 - MENSAJE: Presenter-ConectarLector OK
+2020/10/08 08:57:08.235 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/08 08:57:40.282 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/08 08:57:44.407 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/08 12:41:30.335 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/08 12:41:30.385 - MENSAJE: Presenter-DatosConvenio
+2020/10/08 12:41:30.391 - MENSAJE: Presenter-DatosConvenio error
+2020/10/08 12:41:30.694 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 73477E91
+2020/10/08 12:41:30.742 - MENSAJE: ObtenerAutorizado Error
+2020/10/08 12:41:30.752 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020100808372611 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/08 12:41:34.378 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/08 12:41:34.438 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/08 12:41:34.449 - MENSAJE: Presenter-IVA 1916 SUBTOTAL 10084 TOTAL 12000
+2020/10/08 12:41:34.769 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020100808372611
+2020/10/08 12:41:34.779 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 12000
+2020/10/08 12:42:00.834 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/08 12:42:01.035 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/10/08 12:42:01.055 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

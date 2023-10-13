@@ -1,0 +1,337 @@
+2020/10/17 09:56:24.988 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 09:56:34.396 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 09:56:34.447 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 09:56:34.559 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 09:56:34.676 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 09:56:34.855 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 09:57:11.014 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 09:57:11.024 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 09:57:11.152 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 09:57:15.125 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 09:57:23.245 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 09:57:25.558 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2020/10/17 09:57:59.987 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 09:58:02.182 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 09:58:02.223 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 09:58:02.263 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 09:58:02.303 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 09:58:02.450 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 09:58:06.421 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 09:58:38.555 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 09:58:38.566 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 09:58:38.694 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 09:58:42.677 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 09:58:51.793 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 09:58:52.034 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 09:58:52.044 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 09:58:52.373 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 3211AA27
+2020/10/17 09:58:52.984 - MENSAJE: ObtenerAutorizado Error
+2020/10/17 09:58:53.414 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020101709581111 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/17 09:58:57.107 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 09:58:57.142 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/17 09:58:57.153 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/10/17 09:58:57.316 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020101709581111
+2020/10/17 09:58:57.324 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/10/17 09:59:10.353 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/17 10:01:52.094 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 10:01:54.292 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 10:01:54.348 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 10:01:54.391 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 10:01:54.436 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 10:01:54.586 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 10:02:31.828 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:02:31.840 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:02:31.965 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 10:02:34.768 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:02:44.612 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 10:03:08.902 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 10:03:09.025 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 10:03:09.036 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 10:03:09.334 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 3211AA27
+2020/10/17 10:03:09.659 - MENSAJE: ObtenerAutorizado Error
+2020/10/17 10:03:09.774 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020101709581111 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/17 10:03:09.965 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 10:03:09.975 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/17 10:03:09.986 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/10/17 10:03:10.116 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020101709581111
+2020/10/17 10:03:10.127 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/10/17 10:03:40.884 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/17 10:11:33.861 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 10:11:36.260 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 10:11:36.321 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 10:11:36.370 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 10:11:36.427 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 10:11:36.580 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 10:12:12.620 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 10:12:12.903 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:12:12.915 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:12:16.827 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:12:25.934 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 10:13:42.590 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 10:13:42.741 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 10:13:42.752 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 10:13:43.040 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 3211AA27
+2020/10/17 10:13:43.252 - MENSAJE: ObtenerAutorizado Error
+2020/10/17 10:13:43.330 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020101709581111 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/17 10:13:43.509 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 10:13:43.520 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/17 10:13:43.528 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/10/17 10:13:43.646 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020101709581111
+2020/10/17 10:13:43.652 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/10/17 10:13:53.556 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/17 10:13:53.566 - MENSAJE: idtransaccion movimiento 2020101709581111
+2020/10/17 10:14:37.289 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/17 10:14:37.298 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:14:37.305 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/17 10:14:37.752 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/17 10:14:37.758 - MENSAJE: idtransaccion movimiento 2020101709581111
+2020/10/17 10:14:37.786 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/17 10:14:37.792 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:14:37.798 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/17 10:14:42.384 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 10:14:42.396 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/10/17 10:14:42.410 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 1000 ValorPago: 3000 ValorProcesoCambio: 1000
+2020/10/17 10:14:42.420 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper4
+2020/10/17 10:14:42.533 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper3
+2020/10/17 10:14:44.352 - MENSAJE: idtransaccion movimiento 2020101709581111
+2020/10/17 10:14:44.382 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 5
+2020/10/17 10:14:44.404 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 10:14:44.678 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/10/17 10:16:30.954 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/17 10:16:40.686 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:25:17.648 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 10:25:17.870 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 10:25:17.877 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 10:25:18.193 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 76995E6A
+2020/10/17 10:25:52.025 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 10:25:52.055 - MENSAJE: _NumeroDocumentoOrigen 1096233602
+2020/10/17 10:25:54.691 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 10:25:54.793 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233602
+2020/10/17 10:25:54.801 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 110000
+2020/10/17 10:25:57.396 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 10:25:57.628 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:26:12.634 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 10:26:12.649 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 10:26:12.656 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 10:26:12.950 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 10:26:12.966 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 10:26:12.972 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 10:26:17.966 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 10:26:18.681 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/17 10:26:18.692 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/17 10:27:10.743 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:27:10.749 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:27:10.965 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:27:10.977 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:27:10.988 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:27:21.388 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:27:21.394 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:27:22.916 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:27:22.928 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:27:22.939 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:27:48.571 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:27:48.582 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:27:48.774 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:27:48.786 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:27:48.797 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:27:56.806 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:27:56.817 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:27:56.848 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:27:56.856 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:27:56.863 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:28:49.625 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:28:49.637 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:28:49.839 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:28:49.845 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:28:49.851 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:28:54.413 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 10:28:57.824 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/17 10:29:13.618 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:42:13.697 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 10:42:15.921 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 10:42:15.951 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 10:42:16.009 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 10:42:16.050 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 10:42:16.198 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 10:42:20.139 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 10:42:52.234 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:42:52.246 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 10:42:52.258 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 10:42:56.358 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 10:43:00.417 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 10:43:00.526 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 10:43:00.537 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 10:43:00.882 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 10:43:01.076 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 10:43:01.083 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 10:43:05.969 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 10:43:06.117 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/17 10:43:06.128 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/17 10:43:14.500 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/17 10:43:14.509 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:43:14.742 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/17 10:43:14.752 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:43:14.759 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/17 10:43:18.832 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/17 10:43:18.843 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:43:18.914 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/17 10:43:18.925 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:43:18.937 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/17 10:43:40.529 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:43:40.540 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:43:40.565 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:43:40.572 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:43:40.579 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:43:46.826 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:43:46.832 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:43:46.849 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:43:46.857 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:43:46.864 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:44:08.121 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:44:08.132 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:44:08.163 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:44:08.170 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:44:08.177 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:44:14.023 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 10:44:14.034 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 10:44:14.060 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 10:44:14.068 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 10:44:14.075 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 10:44:18.620 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 10:44:24.021 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/17 10:44:33.366 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:16:15.685 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 11:16:19.570 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 11:16:19.618 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 11:16:19.674 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 11:16:19.718 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 11:16:19.864 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 11:16:23.793 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 11:16:56.054 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 11:16:56.066 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 11:16:56.081 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 11:17:00.128 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:17:18.074 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 11:17:18.121 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:17:18.128 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:17:18.444 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:17:18.643 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:17:18.670 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 11:17:43.347 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 11:17:43.482 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:17:43.493 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:17:43.804 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:17:43.921 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:17:43.932 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 11:17:47.064 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 11:17:47.271 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/17 11:17:47.282 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/17 11:18:06.335 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:18:06.351 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:18:06.508 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:18:06.514 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:18:06.520 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:18:19.736 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:18:19.747 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:18:19.847 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:18:19.859 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:18:19.870 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:18:26.417 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:18:26.428 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:18:26.451 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:18:26.458 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:18:26.465 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:18:33.120 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:18:33.131 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:18:33.207 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:18:33.218 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:18:33.229 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:18:46.897 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:18:46.908 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:18:47.097 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:18:47.107 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:18:47.118 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:18:51.749 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 11:18:54.915 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/17 11:19:04.281 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:20:00.958 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/17 11:20:03.101 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/17 11:20:03.148 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/17 11:20:03.195 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/17 11:20:03.244 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/17 11:20:03.392 - MENSAJE: Presenter-ConectarLector OK
+2020/10/17 11:20:07.349 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/17 11:20:39.800 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 11:20:39.809 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/17 11:20:39.820 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/17 11:20:43.536 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:20:57.176 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/17 11:20:57.330 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:20:57.341 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:20:57.636 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:20:57.935 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:20:57.943 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 11:21:00.875 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 11:21:01.056 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/17 11:21:01.067 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/17 11:21:35.341 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:21:35.350 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:21:35.675 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:21:35.686 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:21:35.695 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:22:15.525 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:22:15.533 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:22:15.680 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:22:15.686 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:22:15.692 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:22:59.952 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:22:59.963 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:23:00.892 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:23:00.903 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:23:00.914 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:23:05.487 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:23:05.498 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:23:05.638 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:23:05.649 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:23:05.663 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:23:13.399 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/17 11:23:13.410 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/17 11:23:13.482 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/17 11:23:13.493 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/17 11:23:13.504 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/17 11:23:18.066 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 11:28:07.024 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/10/17 11:28:11.882 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/17 11:28:21.441 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:32:13.884 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 11:32:13.933 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:32:13.939 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:32:14.222 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:32:14.424 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:32:14.435 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 11:33:04.394 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 11:33:04.567 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:33:04.578 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:33:04.899 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:33:05.024 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:33:05.126 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020101711315511 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/17 11:33:05.256 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 11:33:05.267 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/17 11:33:05.278 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/10/17 11:33:05.350 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020101711315511
+2020/10/17 11:33:05.362 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/10/17 11:33:30.241 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 11:33:30.374 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/10/17 11:33:30.425 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/17 11:33:35.672 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/17 11:33:35.685 - MENSAJE: Presenter-DatosConvenio
+2020/10/17 11:33:35.691 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/17 11:33:36.005 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/17 11:33:36.019 - MENSAJE: ObtenerAutorizado ok
+2020/10/17 11:33:36.026 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/17 11:33:38.453 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/17 11:33:38.469 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/17 11:33:38.475 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/17 11:33:42.494 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/17 11:33:42.592 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/10/17 11:33:42.612 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

@@ -1,0 +1,264 @@
+2019/11/03 08:25:28.643 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 08:25:30.548 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 08:25:30.655 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 08:25:30.834 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 08:25:30.989 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 08:25:31.199 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 08:25:35.196 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 08:25:35.563 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 08:25:47.011 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 08:25:47.245 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 08:27:31.256 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 08:27:33.451 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 08:27:33.561 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 08:27:33.716 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 08:27:33.829 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 08:27:34.000 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 08:27:37.998 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 08:27:39.076 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 08:27:49.443 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 08:27:49.731 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 08:28:05.702 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 08:28:06.813 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 08:28:10.244 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/03 08:28:11.122 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/03 08:28:11.252 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 487
+2019/11/03 08:28:11.524 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 08:28:24.900 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/03 09:18:31.283 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 09:19:26.683 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 09:19:31.024 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 09:19:31.313 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 09:19:31.653 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:19:31.982 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 09:19:32.166 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 09:19:36.168 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 09:19:37.083 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 09:19:48.004 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 09:19:48.592 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 09:19:50.499 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/03 09:19:52.258 - MENSAJE: FrondEnd-btn_ArqueoParcial_Click -> boton Arqueo Parcial.
+2019/11/03 09:19:52.420 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:52.814 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:53.198 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:53.594 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:53.978 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:54.373 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:54.766 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:55.155 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:55.560 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:55.954 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:56.336 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:56.731 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:57.119 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:57.513 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:57.918 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:58.312 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:58.696 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:59.089 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:19:59.480 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:06.541 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:06.936 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:07.329 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:07.710 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:08.102 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:08.494 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:08.516 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 387
+2019/11/03 09:20:08.887 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:09.280 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:09.503 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/03 09:20:09.508 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 59700
+2019/11/03 09:20:09.512 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 134700
+2019/11/03 09:20:09.664 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:09.837 - MENSAJE: Presenter-ListarDetalleArqueo -> OK 
+2019/11/03 09:20:09.849 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/03 09:20:10.100 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:10.496 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:10.885 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:20:11.280 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:20.250 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 09:25:23.022 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 09:25:23.331 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 09:25:23.730 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:25:24.128 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 09:25:24.368 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 09:25:28.287 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 09:25:28.388 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 09:25:37.296 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 09:25:39.362 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 09:25:40.674 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/03 09:25:41.731 - MENSAJE: FrondEnd-btn_ArqueoParcial_Click -> boton Arqueo Parcial.
+2019/11/03 09:25:41.892 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:42.275 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:42.671 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:43.078 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:43.462 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:43.856 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:44.250 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:44.638 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:45.022 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:45.417 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:48.933 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:49.327 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:49.717 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:50.110 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:50.233 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 388
+2019/11/03 09:25:50.493 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:50.708 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/03 09:25:50.713 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 0
+2019/11/03 09:25:50.717 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2019/11/03 09:25:50.888 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:51.068 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/03 09:25:51.292 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:51.686 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:52.070 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:52.464 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:52.850 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:53.245 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:53.640 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:54.024 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:54.417 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:54.808 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:55.202 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:55.585 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:55.979 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:56.369 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:56.760 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:57.167 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:57.561 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:57.954 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:58.337 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:58.729 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:59.123 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:59.516 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:25:59.898 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:00.293 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:13.584 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 09:26:19.981 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 09:26:20.275 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 09:26:20.633 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:26:20.994 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 09:26:21.180 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 09:26:25.173 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 09:26:26.238 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 09:26:34.939 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 09:26:35.703 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 09:26:38.010 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/03 09:26:39.261 - MENSAJE: FrondEnd-btn_ArqueoParcial_Click -> boton Arqueo Parcial.
+2019/11/03 09:26:39.422 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:39.805 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:40.199 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:40.587 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:40.980 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:41.385 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:41.778 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:42.171 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:46.868 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:47.259 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:47.653 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:48.047 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:48.430 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:48.829 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:49.234 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:49.616 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:50.010 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:50.404 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:50.572 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 389
+2019/11/03 09:26:50.798 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:51.056 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/03 09:26:51.061 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 0
+2019/11/03 09:26:51.065 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2019/11/03 09:26:51.181 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:51.473 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/03 09:26:51.575 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:51.970 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:52.374 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:52.757 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:53.149 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:53.541 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:53.936 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:54.329 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:54.719 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:55.102 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:55.497 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:55.892 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:56.280 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:56.314 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/03 09:26:56.687 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:57.070 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:57.463 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:57.858 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:57.910 - MENSAJE: FrondEnd-btn_ArqueoTotal_Click -> Presion boton Arqueo Total.
+2019/11/03 09:26:58.252 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:58.633 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:59.024 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:59.417 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:26:59.808 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:00.201 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:00.605 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:00.705 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:27:00.999 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:01.383 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:01.777 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:02.171 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:02.564 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:02.946 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:03.336 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:03.731 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:04.126 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:04.509 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:04.907 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:05.288 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:05.686 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:06.069 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:06.464 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:06.856 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:07.248 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:07.641 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:08.025 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:08.417 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:08.810 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:09.198 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:09.592 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:27:09.986 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:04.377 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/03 09:31:07.409 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/03 09:31:07.743 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/03 09:31:07.980 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:31:08.302 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/03 09:31:08.480 - MENSAJE: Presenter-ConectarLector OK
+2019/11/03 09:31:12.510 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/03 09:31:14.036 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/03 09:31:23.183 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/03 09:31:23.914 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/03 09:31:25.637 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/03 09:31:26.894 - MENSAJE: FrondEnd-btn_ArqueoTotal_Click -> Presion boton Arqueo Total.
+2019/11/03 09:31:28.596 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/03 09:31:28.711 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:48.095 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:48.477 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:48.871 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:49.266 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:52.797 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:53.179 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:53.573 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:53.966 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:54.255 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 390
+2019/11/03 09:31:54.360 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:54.724 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/03 09:31:54.729 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 2067000
+2019/11/03 09:31:54.734 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2019/11/03 09:31:54.741 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:55.026 - MENSAJE: Presenter-ListarDetalleArqueo -> OK 
+2019/11/03 09:31:55.038 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/03 09:31:55.136 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:55.531 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:55.915 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:56.309 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:56.700 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:57.094 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:57.486 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:57.870 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:58.259 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:58.650 - MENSAJE: Evento billetero no controlado Estable
+2019/11/03 09:31:59.041 - MENSAJE: Evento billetero no controlado Estable

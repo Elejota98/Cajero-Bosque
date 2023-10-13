@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F980406-6021-4C71-A191-DB4D5A98ADBD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATM.WinForm.FrontEnd</RootNamespace>
+    <AssemblyName>ATM.WinForm.FrontEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.ShockwaveFlashObjects">
+      <HintPath>..\Ds.Library\AxInterop.ShockwaveFlashObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientButton">
+      <HintPath>..\Ds.Library\ClientButton.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomButton">
+      <HintPath>..\Ds.Library\CustomButton.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=14.1.0.34, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ds.Library\DevComponents.DotNetBar.Keyboard.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCard, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ds.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.OPCAutomation">
+      <HintPath>..\Ds.Library\Dll\Interop.OPCAutomation.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ITLlib">
+      <HintPath>..\Ds.Library\ITLlib.dll</HintPath>
+    </Reference>
+    <Reference Include="MACTrackBarLib">
+      <HintPath>..\Ds.Library\MACTrackBarLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TransparentControl">
+      <HintPath>..\Ds.Library\TransparentControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Facturas\ReportPrintDocument.cs">
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmAlertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlertas.Designer.cs">
+      <DependentUpon>frmAlertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopUpOKCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopUpOKCancel.Designer.cs">
+      <DependentUpon>frmPopUpOKCancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log_Viewer\BackwardReader.cs" />
+    <Compile Include="Log_Viewer\frmLogFileViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_Viewer\frmLogFileViewer.Designer.cs">
+      <DependentUpon>frmLogFileViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Facturas\ticketPagoMensualidad.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\TicketValidacion.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\TicketArqueo.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\TicketCarga.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\TicketDevolucion.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas\ticketPago.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlertas.resx">
+      <DependentUpon>frmAlertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopUpOKCancel.resx">
+      <DependentUpon>frmPopUpOKCancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_Viewer\frmLogFileViewer.resx">
+      <DependentUpon>frmLogFileViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Config Library\PaymentManager.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketArqueo+TablaArqueoDataTable.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketArqueo+TablaArqueoRow.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketArqueo+TablaArqueoRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketArqueo+TablaArqueoRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketArqueo.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketCarga+TablaCargaDataTable.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketCarga+TablaCargaRow.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketCarga+TablaCargaRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketCarga+TablaCargaRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketCarga.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketDevolucion+TablaDevolucionDataTable.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketDevolucion+TablaDevolucionRow.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketDevolucion+TablaDevolucionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketDevolucion+TablaDevolucionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketDevolucion.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketPago+TablaTicketPagoDataTable.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketPago+TablaTicketPagoRow.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketPago+TablaTicketPagoRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketPago+TablaTicketPagoRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetTicketPago.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetValidacion+TablaValidacionDataTable.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetValidacion+TablaValidacionRow.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetValidacion+TablaValidacionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetValidacion+TablaValidacionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.DataSetValidacion.datasource" />
+    <None Include="Properties\DataSources\ATM.WinForm.Presenter.frmPrincipal_Presenter.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config Library\nano_com.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Config Library\PaymentManager.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CRT_288.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="log4net.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper1_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper1_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper2_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper2_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper3_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper3_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper4_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btnHopper4_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Aceptar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_AceptarPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Acepto.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Arqueo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_ArqueoPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Billetes.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_BilletesPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_BorrarCarga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_BorrarCarga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Cancelar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_CancelarPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Carga.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_CargaPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_CerrarOperacion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_CerrarOperacionPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Iniciar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_IniciarPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Log.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_LogCtCoinPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_LogPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Mantenimiento.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_MantenimientoPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Monedas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_MonedasPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_NO_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_NO_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero0Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero0Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero1Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero1Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero2Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero2Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero3Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero3Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero4Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero4Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero5Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero5Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero6Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero6Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero7Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero7Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero8Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero8Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero9Carga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_Numero9Carga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_OKCarga_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_OKCarga_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Parcial.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_ParcialPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Print.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_PrintNo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_PrintNoPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_PrintPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Salir.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_SalirPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_SI_Normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Btn_SI_Presionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Total.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_TotalPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_Volver.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\btn_VolverPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Imagen_KeyBoard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Btn\Imagen_KeyBoardPresionado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Gif\Animacion_Inicio.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Gif\Animacion_InserteTarjeta.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Gif\Animacion_RetireBox.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Icon\ICON.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Alertas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ArqueoParcial.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ArqueoTotal.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Atasco.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_CanceladaPago.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Cerrado.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ConsultaFallida.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ContraseñaInvalida.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Descargando.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_DetallePago.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_DetallePagoMensualidad.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_GraciasPago.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ImprimirFactura.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_IngresoPass.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Inicio.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Mantenimiento.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_MenuArqueo.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_MenuCarga.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_MenuCargaBilletes.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_MenuCargaMonedas.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_MenuSistema.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Principal.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_ProcesandoPago.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_Publicidad.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_PuedeSalir.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_SegundaPass.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_SistemaSuspendido.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_TarjetaInvalida.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Jpg\Imagen_TarjetaMensualidad.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Wav\Sonido_Atasco.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Wav\Sonido_CodigoInvalido.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Wav\Sonido_ConsultaError.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Wav\Sonido_GraciasPago.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Medios\Wav\Sonido_ImprimirFactura.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NriHidAPI.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Medios\Swf\" />
+    <Folder Include="Popout Forms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ATM.WinForm.Model\ATM.WinForm.Model.csproj">
+      <Project>{696449ac-8a8a-49b9-b5eb-5ff8d713a1ea}</Project>
+      <Name>ATM.WinForm.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.WinForm.Presenter\ATM.WinForm.Presenter.csproj">
+      <Project>{f6b6ddd9-63fc-4c77-9c3d-87242f7d439a}</Project>
+      <Name>ATM.WinForm.Presenter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.WinForm.View\ATM.WinForm.View.csproj">
+      <Project>{6638a36a-2c78-4f81-85df-a2b570148052}</Project>
+      <Name>ATM.WinForm.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.BusinessObjects\Ds.BusinessObjects.csproj">
+      <Project>{ff88af37-1850-421c-a833-1f0e75b87d19}</Project>
+      <Name>Ds.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Utilidades\Ds.Utilidades.csproj">
+      <Project>{39038b2a-c877-4c96-bf39-fa07ea2ba965}</Project>
+      <Name>Ds.Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

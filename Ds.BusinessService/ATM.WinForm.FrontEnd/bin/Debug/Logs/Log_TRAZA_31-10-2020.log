@@ -1,0 +1,198 @@
+2020/10/31 11:53:14.295 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/31 11:53:20.137 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/31 11:53:20.328 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/31 11:53:20.565 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/31 11:53:20.887 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/31 11:53:21.092 - MENSAJE: Presenter-ConectarLector OK
+2020/10/31 11:53:25.186 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/31 11:53:57.301 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/31 11:53:57.312 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/31 11:53:57.431 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/31 11:54:01.570 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/31 11:54:29.876 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/31 11:54:30.106 - MENSAJE: Presenter-DatosConvenio
+2020/10/31 11:54:30.116 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/31 11:54:30.472 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/31 11:54:30.693 - MENSAJE: ObtenerAutorizado ok
+2020/10/31 11:54:30.704 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/31 11:54:53.932 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/31 11:54:53.944 - MENSAJE: Presenter-DatosConvenio
+2020/10/31 11:54:53.950 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/31 11:54:54.287 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/31 11:54:54.305 - MENSAJE: ObtenerAutorizado ok
+2020/10/31 11:54:54.311 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/31 11:54:55.476 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/31 11:54:55.744 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/31 11:54:55.754 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 65000
+2020/10/31 11:55:31.699 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 11:55:31.714 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:55:32.404 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 11:55:32.415 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:55:32.425 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 11:55:37.595 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/31 11:55:37.605 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:55:37.819 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/31 11:55:37.831 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:55:37.841 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/31 11:55:49.078 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:55:49.088 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:55:49.160 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:55:49.166 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:55:49.172 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:55:59.268 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:55:59.278 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:55:59.307 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:55:59.317 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:55:59.327 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:56:08.723 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:56:08.733 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:08.759 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:56:08.769 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:08.780 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:56:17.734 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:56:17.745 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:17.842 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:56:17.853 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:17.863 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:56:27.913 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:56:27.923 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:27.949 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:56:27.960 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:27.971 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:56:29.215 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/10/31 11:56:29.225 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:29.253 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/10/31 11:56:29.260 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:29.268 - MENSAJE: Presenter ValorRecibido 200
+2020/10/31 11:56:32.822 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/10/31 11:56:32.828 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:32.846 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/10/31 11:56:32.851 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:32.857 - MENSAJE: Presenter ValorRecibido 200
+2020/10/31 11:56:34.194 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/10/31 11:56:34.204 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:34.231 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/10/31 11:56:34.243 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:34.254 - MENSAJE: Presenter ValorRecibido 200
+2020/10/31 11:56:35.192 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/10/31 11:56:35.202 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:35.469 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/10/31 11:56:35.480 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:35.490 - MENSAJE: Presenter ValorRecibido 200
+2020/10/31 11:56:37.670 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/10/31 11:56:37.681 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:38.422 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/10/31 11:56:38.433 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:38.444 - MENSAJE: Presenter ValorRecibido 200
+2020/10/31 11:56:50.054 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:56:50.064 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:50.200 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:56:50.211 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:50.221 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:56:54.781 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:56:54.792 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:56:54.838 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:56:54.848 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:56:54.859 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:57:01.475 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:57:01.486 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:57:01.515 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:57:01.526 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:57:01.537 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:57:06.582 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:57:06.593 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:57:06.620 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:57:06.631 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:57:06.641 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:57:30.170 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 11:57:30.181 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:57:30.208 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 11:57:30.219 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:57:30.230 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 11:57:58.443 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:57:58.449 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:57:58.654 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:57:58.665 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:57:58.676 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:58:39.410 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/10/31 11:58:39.416 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:58:39.444 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 11:58:39.450 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:58:39.458 - MENSAJE: Presenter ValorRecibido 2000
+2020/10/31 11:59:35.035 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 11:59:35.046 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:59:35.261 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 11:59:35.273 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:59:35.284 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 11:59:40.979 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 11:59:40.990 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:59:41.020 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 11:59:41.031 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:59:41.042 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 11:59:52.846 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 11:59:52.857 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 11:59:53.776 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 11:59:53.790 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 11:59:53.801 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 12:00:36.281 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 12:00:36.288 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 12:00:36.504 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 12:00:36.515 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 12:00:36.525 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 12:01:06.552 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/10/31 12:01:06.563 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 12:01:06.734 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/31 12:01:06.741 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 12:01:06.747 - MENSAJE: Presenter ValorRecibido 5000
+2020/10/31 12:01:14.649 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/31 12:01:14.683 - CalcularPago Billetero Serial: Denominacion1: 1 Cantidad1: 1 Denominacion2: 0 Cantidad2: 0 Denominacion3: 0 Cantidad3: 0
+2020/10/31 12:01:21.723 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 12:01:21.749 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 12:01:21.958 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 3000 ValorPago: 65000 ValorProcesoCambio: 1000
+2020/10/31 12:01:21.971 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper4
+2020/10/31 12:01:22.094 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper3
+2020/10/31 12:01:23.074 - MENSAJE: idtransaccion movimiento 1096233601
+2020/10/31 12:01:23.102 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 5
+2020/10/31 12:01:23.132 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/31 12:01:41.347 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/10/31 12:01:45.354 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/31 12:01:54.902 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/31 12:16:39.192 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/31 12:16:42.334 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/31 12:16:42.387 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/31 12:16:42.455 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/31 12:16:42.508 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/31 12:16:42.663 - MENSAJE: Presenter-ConectarLector OK
+2020/10/31 12:16:46.736 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/31 12:17:18.814 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/31 12:17:18.826 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/31 12:17:18.842 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/31 12:17:23.112 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/31 12:17:34.562 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/31 12:17:34.732 - MENSAJE: Presenter-DatosConvenio
+2020/10/31 12:17:34.743 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/31 12:17:35.079 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 52D8A527
+2020/10/31 12:17:35.229 - MENSAJE: ObtenerAutorizado Error
+2020/10/31 12:17:35.271 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/10/31 12:17:35.342 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020103111241311 REPO = True TipoVehiculo = 1 Codigo = 0
+2020/10/31 12:17:35.513 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/31 12:17:35.527 - MENSAJE: Presenter-IVA 2874 SUBTOTAL 15126 TOTAL 18000
+2020/10/31 12:17:35.676 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020103111241311
+2020/10/31 12:17:35.687 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 18000
+2020/10/31 12:17:45.215 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/31 12:17:45.231 - MENSAJE: idtransaccion movimiento 2020103111241311
+2020/10/31 12:17:45.476 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/31 12:17:45.490 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 12:17:45.501 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/31 12:17:49.532 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/31 12:17:49.539 - MENSAJE: idtransaccion movimiento 2020103111241311
+2020/10/31 12:17:49.608 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/31 12:17:49.620 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/31 12:17:49.631 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/31 12:17:59.693 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/31 12:17:59.716 - CalcularPago Billetero Serial: Denominacion1: 1 Cantidad1: 1 Denominacion2: 0 Cantidad2: 0 Denominacion3: 0 Cantidad3: 0
+2020/10/31 12:18:06.769 - MENSAJE: idtransaccion movimiento 2020103111241311
+2020/10/31 12:18:06.796 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/31 12:18:15.732 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/10/31 12:18:20.280 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/31 12:18:30.127 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

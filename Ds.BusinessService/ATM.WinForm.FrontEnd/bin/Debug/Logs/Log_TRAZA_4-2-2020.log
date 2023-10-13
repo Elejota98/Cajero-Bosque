@@ -1,0 +1,12 @@
+2020/02/04 06:25:15.888 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/02/04 06:25:34.842 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/02/04 06:25:34.946 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/02/04 06:25:35.042 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/02/04 06:25:35.198 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/02/04 06:31:15.074 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/02/04 06:31:23.130 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/02/04 06:31:23.187 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/02/04 06:31:23.338 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/02/04 06:31:23.475 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/02/04 06:31:25.793 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Cassette Descripcion: Billetero Atascado
+2020/02/04 06:31:25.809 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Cassette Descripcion: Billetero Atascado

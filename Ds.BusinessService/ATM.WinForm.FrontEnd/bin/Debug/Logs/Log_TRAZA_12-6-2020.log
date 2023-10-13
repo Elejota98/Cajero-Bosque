@@ -1,0 +1,9 @@
+2020/06/12 03:50:19.629 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/06/12 03:50:51.025 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/06/12 03:50:51.176 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/06/12 03:50:51.493 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/06/12 03:50:52.438 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/06/12 03:50:52.517 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/06/12 03:51:18.630 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 06F7486A
+2020/06/12 03:51:44.623 - MENSAJE: ObtenerAutorizado ok
+2020/06/12 03:52:06.050 - MENSAJE: _NumeroDocumentoOrigen 1096233601

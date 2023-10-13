@@ -1,0 +1,46 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Mensajes\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Mensajes\obj\Debug\EGlobal_ATM.Mensajes.pdb

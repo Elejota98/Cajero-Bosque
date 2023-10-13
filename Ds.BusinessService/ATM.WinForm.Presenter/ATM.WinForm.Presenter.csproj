@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6B6DDD9-63FC-4C77-9C3D-87242F7D439A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATM.WinForm.Presenter</RootNamespace>
+    <AssemblyName>ATM.WinForm.Presenter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EGlobalT.Device.SmartCard">
+      <HintPath>..\Ds.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.SmartCardReaders">
+      <HintPath>..\Ds.Library\EGlobalT.Device.SmartCardReaders.dll</HintPath>
+    </Reference>
+    <Reference Include="EGlobalT.Device.Tools">
+      <HintPath>..\Ds.Library\EGlobalT.Device.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.Apdu">
+      <HintPath>..\Ds.Library\GS.Apdu.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.CSharpPCSC">
+      <HintPath>..\Ds.Library\GS.CSharpPCSC.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.HexLibrary">
+      <HintPath>..\Ds.Library\GS.HexLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ds.Library\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\Presenter.cs" />
+    <Compile Include="DataSetTicketArqueo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTicketCarga.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTicketDevolucion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketDevolucion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTicketPago.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetValidacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal_Presenter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ATM.WinForm.Model\ATM.WinForm.Model.csproj">
+      <Project>{696449ac-8a8a-49b9-b5eb-5ff8d713a1ea}</Project>
+      <Name>ATM.WinForm.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ATM.WinForm.View\ATM.WinForm.View.csproj">
+      <Project>{6638a36a-2c78-4f81-85df-a2b570148052}</Project>
+      <Name>ATM.WinForm.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.BusinessObjects\Ds.BusinessObjects.csproj">
+      <Project>{ff88af37-1850-421c-a833-1f0e75b87d19}</Project>
+      <Name>Ds.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.CashPaymentDevice\Ds.CashPaymentDevice.csproj">
+      <Project>{f3697178-8ae6-4e5a-89dc-8dd773766106}</Project>
+      <Name>Ds.CashPaymentDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Datafono\Ds.Datafono.csproj">
+      <Project>{cb7f3139-d1f7-4d81-a182-a5431608bf90}</Project>
+      <Name>Ds.Datafono</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.ServiceProxy\Ds.ServiceProxy.csproj">
+      <Project>{1139cfd5-70cb-41fe-badf-c6f37d903773}</Project>
+      <Name>Ds.ServiceProxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Utilidades\Ds.Utilidades.csproj">
+      <Project>{39038b2a-c877-4c96-bf39-fa07ea2ba965}</Project>
+      <Name>Ds.Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSetTicketArqueo.xsc">
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketArqueo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketArqueo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTicketArqueo.xss">
+      <DependentUpon>DataSetTicketArqueo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketCarga.xsc">
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketCarga.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketCarga.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTicketCarga.xss">
+      <DependentUpon>DataSetTicketCarga.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketDevolucion.xsc">
+      <DependentUpon>DataSetTicketDevolucion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketDevolucion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketDevolucion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTicketDevolucion.xss">
+      <DependentUpon>DataSetTicketDevolucion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketPago.xsc">
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTicketPago.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTicketPago.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetTicketPago.xss">
+      <DependentUpon>DataSetTicketPago.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetValidacion.xsc">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetValidacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetValidacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetValidacion.xss">
+      <DependentUpon>DataSetValidacion.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\DataSetTicketArqueo.TablaArqueoDataTable.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketArqueo.TablaArqueoRow.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketArqueo.TablaArqueoRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketArqueo.TablaArqueoRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketCarga.TablaCargaDataTable.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketCarga.TablaCargaRow.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketCarga.TablaCargaRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketCarga.TablaCargaRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketDevolucion.TablaDevolucionDataTable.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketDevolucion.TablaDevolucionRow.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketDevolucion.TablaDevolucionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketDevolucion.TablaDevolucionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketPago.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketPago.TablaTicketPagoDataTable.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketPago.TablaTicketPagoRow.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketPago.TablaTicketPagoRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\DataSetTicketPago.TablaTicketPagoRowChangeEventHandler.datasource" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,90 @@
+2019/11/06 12:47:54.890 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:48:52.637 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:49:11.407 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:49:32.544 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:49:34.648 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:49:36.158 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:49:37.428 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 12:52:22.962 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:52:34.198 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:52:35.454 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:52:35.494 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:52:35.537 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 12:53:48.716 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:53:56.473 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:53:56.490 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:53:56.516 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:53:56.561 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 12:57:07.015 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:57:16.889 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:57:16.927 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:57:16.967 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:57:17.006 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 12:57:29.272 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:57:35.261 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:57:35.300 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:57:35.404 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:57:35.494 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 12:57:50.112 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 12:57:54.417 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 12:57:54.449 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 12:57:54.493 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 12:57:54.563 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 01:04:32.251 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 01:04:41.227 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 01:04:41.300 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 01:04:41.364 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 01:04:41.429 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 01:09:29.528 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 01:09:37.152 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 01:09:37.169 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 01:09:37.194 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 01:09:37.250 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 01:10:07.464 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/06 01:10:07.475 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/06 01:13:09.622 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 01:13:11.345 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 01:13:11.369 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 01:13:11.397 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 01:13:11.438 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 01:13:16.579 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/06 01:13:16.593 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/06 01:20:00.156 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 01:20:03.464 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 01:20:03.491 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 01:20:03.547 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 01:20:03.641 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 04:30:24.494 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 04:30:49.491 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 04:30:51.491 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 04:30:52.328 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 04:30:53.202 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 04:30:56.516 - MENSAJE: Presenter-ConectarLector OK
+2019/11/06 04:30:56.599 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2019/11/06 04:33:29.052 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 04:33:33.966 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 04:33:35.939 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 04:33:37.023 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 04:33:37.124 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 04:33:37.371 - MENSAJE: Presenter-ConectarLector OK
+2019/11/06 04:33:37.396 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2019/11/06 04:34:52.501 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 04:34:58.567 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 04:34:58.594 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 04:34:58.676 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 04:34:58.763 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 04:34:59.005 - MENSAJE: Presenter-ConectarLector OK
+2019/11/06 04:34:59.036 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2019/11/06 04:39:15.892 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 04:39:18.293 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 04:39:18.320 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 04:39:18.359 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 04:39:18.424 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 04:39:18.823 - MENSAJE: Presenter-ConectarLector OK
+2019/11/06 04:39:18.850 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2019/11/06 11:23:49.685 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/06 11:23:54.761 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/06 11:23:54.788 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/06 11:23:54.826 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/06 11:23:54.860 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/06 11:24:03.739 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.

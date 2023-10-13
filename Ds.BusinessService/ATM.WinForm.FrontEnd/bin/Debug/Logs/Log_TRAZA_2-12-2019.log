@@ -1,0 +1,31 @@
+2019/12/02 04:07:46.890 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/12/02 04:07:57.377 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/12/02 04:07:57.558 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/12/02 04:07:57.655 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/12/02 04:07:58.155 - MENSAJE: Error Presenter-ObtenerInfoParametros: Módulo sin partes registradas en base de datos.
+2019/12/02 04:07:58.160 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2019/12/02 04:09:04.368 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/12/02 04:09:06.472 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/12/02 04:09:06.546 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/12/02 04:09:06.639 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/12/02 04:09:06.745 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/12/02 04:09:06.825 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2019/12/02 04:09:07.790 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2019/12/02 04:09:58.052 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/12/02 04:09:58.291 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/12/02 04:09:59.630 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/12/02 04:10:00.980 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/12/02 04:10:11.065 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 20257
+2019/12/02 04:29:18.587 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/12/02 04:29:23.619 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/12/02 04:29:23.842 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/12/02 04:29:24.107 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/12/02 04:29:24.354 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/12/02 04:29:24.537 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/12/02 04:29:25.489 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/12/02 04:30:12.430 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 63317305
+2019/12/02 04:30:12.680 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 63317305
+2019/12/02 04:30:14.035 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/12/02 04:30:14.993 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/12/02 04:30:15.143 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 3
+2019/12/02 04:30:15.303 - MENSAJE: Presenter-ObtenerInfoPartes: 

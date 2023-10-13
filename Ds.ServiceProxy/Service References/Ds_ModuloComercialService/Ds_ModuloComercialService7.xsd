@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.MillensCorp.com/types/" elementFormDefault="qualified" targetNamespace="http://www.MillensCorp.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfServiceDtoTarjetas">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoTarjetas" nillable="true" type="tns:ServiceDtoTarjetas" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoTarjetas" nillable="true" type="tns:ArrayOfServiceDtoTarjetas" />
+  <xs:complexType name="ServiceDtoTarjetas">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Estado" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IdEstacionamiento" type="xs:long" />
+      <xs:element minOccurs="0" name="IdTarjeta" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoTarjetas" nillable="true" type="tns:ServiceDtoTarjetas" />
+</xs:schema>

@@ -1,0 +1,103 @@
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Admin\Documents\CAJERO\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Admin\Documents\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Programacion\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\MEGAMALL\New\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\MEGAMALL\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Administrador\Desktop\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+C:\Users\Administrador\Documents\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.AzcoyenDevice.pdb
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.Apdu.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.BusinessObjects.pdb
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\bin\Debug\Ds.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.dll
+D:\PROYECTOS\PARQUEARSE\UNAB BOSQUE\Codigoppa\Codigoppa\CAJEROAzcoyen\Ds.AzcoyenDevice\obj\Debug\Ds.AzcoyenDevice.pdb

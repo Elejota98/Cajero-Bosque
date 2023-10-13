@@ -1,0 +1,144 @@
+2019/11/20 06:35:17.316 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:35:22.917 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2019/11/20 06:35:22.923 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/20 06:37:10.488 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:37:12.338 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2019/11/20 06:37:12.342 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/20 06:39:11.864 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:39:14.437 - MENSAJE: Error Presenter-ObtenerInfoModulo: Módulo sin registro en base de datos.
+2019/11/20 06:39:14.443 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/20 06:40:39.351 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:40:41.051 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:40:41.264 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:40:41.434 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:40:41.600 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:40:41.727 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:40:42.505 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:41:15.058 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 666
+2019/11/20 06:41:32.159 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:41:34.407 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:41:34.522 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:41:34.691 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:41:34.895 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:41:35.022 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:41:35.595 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:41:47.077 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:41:47.289 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:41:49.216 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:41:50.387 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:41:53.221 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:41:53.226 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:41:53.587 - MENSAJE: FrondEnd-RegistrarCarga -> No confirma carga.
+2019/11/20 06:41:57.792 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:42:42.376 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:42:43.794 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:42:43.906 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:42:44.018 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:42:44.139 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:42:44.272 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:42:45.406 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:42:53.591 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:42:53.727 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:42:54.810 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:42:55.692 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:42:58.195 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:42:58.200 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:42:58.494 - MENSAJE: FrondEnd-RegistrarCarga -> No confirma carga.
+2019/11/20 06:43:00.244 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:43:19.453 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:43:20.885 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:43:21.174 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:43:21.284 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:43:21.408 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:43:21.515 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:43:22.235 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:43:30.043 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:43:30.207 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:43:31.125 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:43:31.929 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:43:34.451 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:43:34.457 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:43:34.770 - MENSAJE: FrondEnd-RegistrarCarga -> No confirma carga.
+2019/11/20 06:43:37.009 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:43:53.802 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:43:55.772 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:43:55.781 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:43:56.116 - MENSAJE: FrondEnd-RegistrarCarga -> No confirma carga.
+2019/11/20 06:44:04.040 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:45:06.177 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:45:39.139 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:45:41.992 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:45:42.107 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:45:42.253 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:45:42.394 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:45:42.519 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:45:43.124 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:45:51.055 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:45:51.205 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:45:52.309 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:45:53.124 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:45:57.599 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:45:57.607 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:46:08.430 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:47:55.160 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:48:17.052 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:48:27.399 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/20 06:48:27.734 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:48:27.797 - MENSAJE: FrondEnd-Imprimir -> Excepcion al imprimir: 
+2019/11/20 06:48:41.215 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:48:58.477 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:49:11.300 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/20 06:49:19.431 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:49:51.524 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:49:53.142 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:49:53.251 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:49:53.901 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:49:54.020 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:49:54.127 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:49:54.828 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:50:03.772 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:50:03.915 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:50:05.104 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:50:05.866 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:50:13.687 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:50:25.737 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/20 06:50:25.944 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:51:04.104 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:52:22.205 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:52:28.561 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:52:28.667 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:52:28.816 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:52:28.991 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:52:29.125 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:52:29.789 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:52:37.628 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:52:37.792 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:52:38.889 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:52:40.148 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:52:50.599 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:53:27.647 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:53:29.139 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:53:29.278 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:53:29.406 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:53:29.520 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:53:29.658 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:53:30.394 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:53:38.755 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:53:38.908 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:53:39.965 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:53:40.680 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:53:43.902 - MENSAJE: Error Presenter-RegistrarCarga: 
+2019/11/20 06:53:43.908 - MENSAJE: Presenter RegistrarCarga -> Sistema Suspendido - Registro Carga Error
+2019/11/20 06:53:50.312 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:54:34.081 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/20 06:54:35.885 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/20 06:54:36.017 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/20 06:54:36.140 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/20 06:54:36.284 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/20 06:54:36.391 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2019/11/20 06:54:36.977 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2019/11/20 06:54:45.210 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2019/11/20 06:54:45.368 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2019/11/20 06:54:46.150 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2019/11/20 06:54:46.816 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2019/11/20 06:54:53.717 - MENSAJE: Presenter-ObtenerInfoPartes: 

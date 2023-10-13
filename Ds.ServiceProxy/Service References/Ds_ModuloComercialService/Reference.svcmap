@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="af6726a6-79bc-416f-b1e5-75c7bd471e1d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:99/DsService/Ds_ModuloComercialService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Ds_ModuloComercialService.xsd" MetadataType="Schema" ID="b695a627-1351-4211-940b-ae8bf120444f" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd4" />
+    <MetadataFile FileName="Ds_ModuloComercialService1.xsd" MetadataType="Schema" ID="91a8b129-6747-4911-b8ae-d2cc9a49faab" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd2" />
+    <MetadataFile FileName="Ds_ModuloComercialService.disco" MetadataType="Disco" ID="ababa01f-bc41-4294-b62e-f71558fc76f5" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?disco" />
+    <MetadataFile FileName="Ds_ModuloComercialService6.xsd" MetadataType="Schema" ID="d7b6e6a9-4fa3-4570-8aba-90c3a91bacfc" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd6" />
+    <MetadataFile FileName="Ds_ModuloComercialService2.xsd" MetadataType="Schema" ID="57def205-3e6b-455f-aba1-c9c9f51b6490" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd0" />
+    <MetadataFile FileName="Ds_ModuloComercialService61.xsd" MetadataType="Schema" ID="2ef916e9-6a7f-43c1-8953-58f42e2e602c" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd7" />
+    <MetadataFile FileName="Ds_ModuloComercialService3.xsd" MetadataType="Schema" ID="218cf1c4-cb3e-4bc8-967f-e18e0011fff4" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd5" />
+    <MetadataFile FileName="Ds_ModuloComercialService7.xsd" MetadataType="Schema" ID="29bf40c4-cc44-4754-9b7c-25fd284c0f1b" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd8" />
+    <MetadataFile FileName="Ds_ModuloComercialService4.xsd" MetadataType="Schema" ID="e89feb36-b271-4415-b30e-ff621e024576" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ModuloService.wsdl" MetadataType="Wsdl" ID="fbecc324-8982-4603-9359-0dbc3428ae22" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?wsdl" />
+    <MetadataFile FileName="Ds_ModuloComercialService5.xsd" MetadataType="Schema" ID="451240d3-8de0-4768-ba86-9418ece1ad00" SourceId="1" SourceUrl="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

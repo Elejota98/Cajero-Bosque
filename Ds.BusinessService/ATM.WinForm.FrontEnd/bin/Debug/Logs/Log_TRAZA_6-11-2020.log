@@ -1,0 +1,141 @@
+2020/11/06 11:33:56.057 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 11:34:35.366 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 11:34:36.258 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 11:34:36.436 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 11:34:36.817 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 11:34:37.309 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 11:35:14.889 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:35:14.906 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:35:14.929 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 11:35:18.615 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 11:35:30.022 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 11:35:45.337 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 11:35:45.415 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 11:35:45.425 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 11:35:45.844 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 11:35:45.887 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 11:35:46.121 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 11:35:46.802 - MENSAJE: System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4208
+2020/11/06 11:36:27.391 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 11:36:27.407 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 11:36:27.415 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 11:36:27.699 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 11:36:27.713 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 11:36:27.727 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 11:36:27.758 - MENSAJE: System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4208
+2020/11/06 11:51:06.026 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 11:51:08.627 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 11:51:08.657 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 11:51:08.699 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 11:51:08.739 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 11:51:08.899 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 11:51:12.875 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 11:51:45.109 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:51:45.116 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:51:45.125 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 11:51:49.121 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 11:51:56.384 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 11:51:56.406 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 11:51:56.412 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 11:51:56.793 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 11:51:56.842 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 11:51:56.867 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 11:56:54.504 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 11:56:56.814 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 11:56:56.845 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 11:56:56.924 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 11:56:56.966 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 11:56:57.121 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 11:57:01.100 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 11:57:33.074 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:57:33.080 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:57:33.203 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 11:57:37.302 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 11:57:42.580 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 11:57:42.601 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 11:57:42.607 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 11:57:42.907 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 11:57:42.953 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 11:57:42.977 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 11:58:11.875 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 11:58:14.134 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 11:58:14.163 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 11:58:14.205 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 11:58:14.247 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 11:58:14.403 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 11:58:18.358 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 11:58:50.529 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:58:50.536 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 11:58:50.546 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 11:58:54.585 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 11:58:59.970 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 11:58:59.992 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 11:58:59.998 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 11:59:00.287 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 11:59:00.332 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 11:59:00.356 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 12:00:21.757 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 12:00:24.010 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 12:00:24.045 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 12:00:24.091 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 12:00:24.130 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 12:00:24.284 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 12:00:28.299 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 12:01:00.450 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:01:00.457 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:01:00.467 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 12:01:04.452 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 12:01:12.879 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 12:01:12.904 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 12:01:12.910 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 12:01:13.189 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 12:01:13.234 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 12:01:13.259 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 12:43:34.604 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 12:43:36.964 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 12:43:36.996 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 12:43:37.041 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 12:43:37.083 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 12:43:37.239 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 12:43:41.251 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 12:44:13.513 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:44:13.520 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:44:13.531 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 12:44:17.457 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 12:44:43.794 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/06 12:44:43.820 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 12:44:43.826 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 12:44:44.153 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: D3F98391
+2020/11/06 12:44:44.211 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 12:44:44.236 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 12:54:42.675 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/06 12:54:44.882 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/06 12:54:44.912 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/06 12:54:44.953 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/06 12:54:44.992 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/06 12:54:45.148 - MENSAJE: Presenter-ConectarLector OK
+2020/11/06 12:54:49.110 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/06 12:55:21.067 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:55:21.074 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/06 12:55:21.086 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/06 12:55:25.326 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/06 12:55:31.860 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/11/06 12:55:31.884 - MENSAJE: Presenter-DatosConvenio
+2020/11/06 12:55:31.891 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/06 12:55:32.173 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 73477E91
+2020/11/06 12:55:32.227 - MENSAJE: ObtenerAutorizado Error
+2020/11/06 12:55:32.254 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/06 12:56:28.715 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201106095240301 REPO = False TipoVehiculo = 1 Codigo = 32
+2020/11/06 12:56:31.536 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/06 12:56:31.548 - MENSAJE: Presenter-IVA 958 SUBTOTAL 5042 TOTAL 6000
+2020/11/06 12:56:31.760 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201106095240301
+2020/11/06 12:56:31.771 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 6000
+2020/11/06 12:57:53.823 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/06 12:57:54.074 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/06 12:57:54.090 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

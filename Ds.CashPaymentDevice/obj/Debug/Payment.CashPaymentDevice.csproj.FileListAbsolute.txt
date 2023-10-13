@@ -1,0 +1,17 @@
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\Payment.CashPaymentDevice.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\Payment.CashPaymentDevice.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\obj\Debug\Payment.CashPaymentDevice.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\obj\Debug\Payment.CashPaymentDevice.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\Payment.CashPaymentDevice\obj\Debug\Payment.CashPaymentDevice.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\Payment.CashPaymentDevice.dll
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\Payment.CashPaymentDevice.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\obj\Debug\Payment.CashPaymentDevice.dll
+C:\Proyectos\Payment\Desarrollo Coin1\Payment.CashPaymentDevice\obj\Debug\Payment.CashPaymentDevice.pdb

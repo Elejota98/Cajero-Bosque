@@ -1,0 +1,230 @@
+2019/11/04 04:49:54.771 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 04:50:08.002 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 04:50:08.130 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 04:50:08.331 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 04:50:08.501 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 04:50:08.718 - MENSAJE: Presenter-ConectarLector OK
+2019/11/04 04:50:12.748 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/04 04:50:15.640 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/04 04:50:25.596 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/04 04:50:25.897 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/04 04:50:27.953 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/04 04:50:29.388 - MENSAJE: FrondEnd-btn_ArqueoParcial_Click -> boton Arqueo Parcial.
+2019/11/04 04:50:29.550 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:29.931 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:30.326 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:30.711 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:31.105 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:31.512 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:31.906 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:32.290 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:32.684 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:33.079 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:33.461 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:38.561 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:38.954 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:39.337 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:39.731 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:40.141 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:40.524 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:40.913 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:41.328 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:41.364 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 391
+2019/11/04 04:50:41.550 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/04 04:50:41.554 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 120000
+2019/11/04 04:50:41.559 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2019/11/04 04:50:41.704 - MENSAJE: Presenter-ListarDetalleArqueo -> OK 
+2019/11/04 04:50:41.710 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:44.268 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/04 04:50:47.726 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:49.548 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:49.931 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:50.325 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:50.719 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:51.135 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:52.509 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:52.901 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:50:53.296 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:38.041 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:38.436 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:38.819 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:39.214 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:39.609 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:45.408 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:45.792 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:46.187 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:46.570 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 04:51:46.970 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:37:10.442 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 05:37:14.775 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 05:37:15.160 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 05:37:15.539 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 05:37:15.854 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 05:37:16.032 - MENSAJE: Presenter-ConectarLector OK
+2019/11/04 05:37:20.144 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/04 05:37:20.706 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/04 05:38:31.454 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 05:39:08.508 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 05:39:09.910 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 05:39:10.081 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 05:39:34.267 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 05:40:03.082 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 05:40:04.817 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 05:40:04.927 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 05:40:05.196 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 05:40:05.472 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 05:40:05.671 - MENSAJE: Presenter-ConectarLector OK
+2019/11/04 05:40:09.589 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2019/11/04 05:40:09.655 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2019/11/04 05:40:19.695 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 123456789
+2019/11/04 05:40:19.983 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 123456789
+2019/11/04 05:40:21.979 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2019/11/04 05:40:22.963 - MENSAJE: FrondEnd-btn_ArqueoTotal_Click -> Presion boton Arqueo Total.
+2019/11/04 05:40:25.019 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 05:40:25.128 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:51.148 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:51.555 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:51.947 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:52.341 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:52.568 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 392
+2019/11/04 05:40:52.734 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:52.914 - MENSAJE: Presenter-ConfirmarOperacion: 
+2019/11/04 05:40:52.919 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 100000
+2019/11/04 05:40:52.925 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2019/11/04 05:40:53.118 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:53.188 - MENSAJE: Presenter-ListarDetalleArqueo -> OK 
+2019/11/04 05:40:53.512 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:53.538 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2019/11/04 05:40:53.929 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:54.375 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:54.759 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:55.154 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:55.538 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:55.932 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:56.327 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:56.710 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:57.105 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:57.499 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:57.883 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:58.280 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:58.665 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:59.059 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:59.453 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:40:59.836 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:41:00.230 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:41:00.620 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:41:01.017 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:41:01.406 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 05:41:01.788 - MENSAJE: Evento billetero no controlado Estable
+2019/11/04 02:03:39.620 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 02:03:42.699 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 02:03:42.812 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 02:03:42.934 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 02:03:43.075 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 02:20:08.992 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 02:20:13.654 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 02:20:13.795 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 02:20:13.972 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 02:20:14.156 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 02:21:34.969 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 02:26:05.363 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 02:26:10.457 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 02:26:10.563 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 02:26:10.703 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 02:26:10.846 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 02:27:12.234 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 02:28:23.664 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 02:28:24.771 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 02:28:24.869 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 02:28:24.992 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 02:28:25.095 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 02:32:48.293 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 02:32:54.266 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 201911041432531
+2019/11/04 02:33:07.529 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 1058200
+2019/11/04 07:44:35.351 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:48:08.644 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:48:30.872 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:52:06.135 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:53:25.307 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:54:45.947 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 07:56:58.942 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:01:12.499 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:02:38.382 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:04:53.303 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:07:03.243 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:08:53.805 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:09:19.360 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:09:19.643 - MENSAJE: Error Presenter-ObtenerInfoFactura: Info Modulo OK
+2019/11/04 08:09:19.647 - MENSAJE: Presenter-ObtenerInfoFactura -> Sistema Suspendido - Info factura Error
+2019/11/04 08:09:27.911 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:09:41.975 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:09:43.137 - MENSAJE: Error Presenter-ObtenerInfoFactura: Info Modulo OK
+2019/11/04 08:09:43.141 - MENSAJE: Presenter-ObtenerInfoFactura -> Sistema Suspendido - Info factura Error
+2019/11/04 08:10:27.502 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:10:30.441 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:11:03.704 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:11:06.566 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:11:07.959 - MENSAJE: Error Presenter-ObtenerInfoParametros: 
+2019/11/04 08:11:07.965 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2019/11/04 08:13:50.250 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:13:53.771 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:13:57.379 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:13:59.897 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:14:29.698 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:14:32.589 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:14:32.683 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:14:33.584 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:16:04.645 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:16:50.127 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:16:54.241 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:16:54.339 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:16:56.033 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:18:28.896 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:18:32.185 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:18:32.284 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:18:35.185 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:19:02.603 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 08:20:16.494 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 08:21:23.537 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:21:24.870 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:21:25.106 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:21:25.225 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:21:28.918 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 08:22:30.108 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 08:24:52.468 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:24:55.390 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:24:55.512 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:24:55.626 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:24:55.742 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 08:25:27.555 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 08:26:05.439 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 201911042025361
+2019/11/04 08:27:08.990 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 1080400
+2019/11/04 08:29:24.321 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:29:26.695 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:29:26.797 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:29:26.906 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:29:27.015 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 08:30:08.475 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 08:30:31.895 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 201911042030141
+2019/11/04 08:30:34.233 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 1080400
+2019/11/04 08:31:13.416 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2019/11/04 08:31:55.492 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 08:31:57.109 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 08:31:57.206 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 08:31:57.308 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 08:31:57.410 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 08:32:25.223 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 08:32:35.011 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 201911042032341
+2019/11/04 08:32:37.342 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 1080400
+2019/11/04 08:34:18.242 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2019/11/04 08:57:03.746 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 09:03:57.992 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/04 09:04:01.837 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/04 09:04:01.959 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/04 09:04:02.137 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/04 09:04:02.289 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/04 09:04:33.577 - MENSAJE: Presenter-ConsultaValor ok 
+2019/11/04 09:04:40.441 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 201911042104401
+2019/11/04 09:04:42.138 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 1080400
+2019/11/04 09:04:55.673 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2019/11/04 09:05:00.193 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.

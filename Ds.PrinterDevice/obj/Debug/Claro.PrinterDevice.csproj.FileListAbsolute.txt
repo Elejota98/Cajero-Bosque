@@ -1,0 +1,7 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\bin\Debug\Claro.PrinterDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\bin\Debug\Claro.PrinterDevice.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\obj\Debug\Claro.PrinterDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\obj\Debug\Claro.PrinterDevice.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\bin\Debug\Claro.BusinessObjects.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\bin\Debug\Claro.BusinessObjects.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PrinterDevice\obj\Debug\Claro.PrinterDevice.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\Claro.Ping.Ping.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\bin\Debug\Claro.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\bin\Debug\Claro.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\Claro.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\Claro.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\Claro.Ping.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\Claro.Ping.csprojResolveAssemblyReference.cache

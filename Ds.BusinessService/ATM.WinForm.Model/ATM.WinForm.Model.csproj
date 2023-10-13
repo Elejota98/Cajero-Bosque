@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{696449AC-8A8A-49B9-B5EB-5FF8D713A1EA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATM.WinForm.Model</RootNamespace>
+    <AssemblyName>ATM.WinForm.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\IModel.cs" />
+    <Compile Include="Base\Model.cs" />
+    <Compile Include="CashPayment\IModel_CashPayment.cs" />
+    <Compile Include="CashPayment\Model_CashPayment.cs" />
+    <Compile Include="Datafono\IModelDatafono.cs" />
+    <Compile Include="Datafono\ModelDatafono.cs" />
+    <Compile Include="Modulo\IModel_Modulo.cs" />
+    <Compile Include="Modulo\Model_Modulo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ds.BusinessObjects\Ds.BusinessObjects.csproj">
+      <Project>{ff88af37-1850-421c-a833-1f0e75b87d19}</Project>
+      <Name>Ds.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.CashPaymentDevice\Ds.CashPaymentDevice.csproj">
+      <Project>{f3697178-8ae6-4e5a-89dc-8dd773766106}</Project>
+      <Name>Ds.CashPaymentDevice</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Datafono\Ds.Datafono.csproj">
+      <Project>{cb7f3139-d1f7-4d81-a182-a5431608bf90}</Project>
+      <Name>Ds.Datafono</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.ServiceProxy\Ds.ServiceProxy.csproj">
+      <Project>{1139cfd5-70cb-41fe-badf-c6f37d903773}</Project>
+      <Name>Ds.ServiceProxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Utilidades\Ds.Utilidades.csproj">
+      <Project>{39038b2a-c877-4c96-bf39-fa07ea2ba965}</Project>
+      <Name>Ds.Utilidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Servicios\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

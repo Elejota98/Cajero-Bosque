@@ -1,0 +1,10 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Antell.Utilidades\bin\Debug\Antell.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Antell.Utilidades\bin\Debug\Antell.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Antell.Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Antell.Utilidades\obj\Debug\Antell.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Antell.Utilidades\obj\Debug\Antell.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Utilidades\bin\Debug\Claro.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Utilidades\bin\Debug\Claro.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Utilidades\obj\Debug\Claro.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Utilidades\obj\Debug\Claro.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Utilidades\obj\Debug\Claro.Utilidades.csprojResolveAssemblyReference.cache

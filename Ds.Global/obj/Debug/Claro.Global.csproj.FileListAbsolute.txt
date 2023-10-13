@@ -1,0 +1,7 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\bin\Debug\Claro.Global.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\bin\Debug\Claro.Global.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\obj\Debug\Claro.Global.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\obj\Debug\Claro.Global.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\bin\Debug\Claro.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\bin\Debug\Claro.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Global\obj\Debug\Claro.Global.csprojResolveAssemblyReference.cache

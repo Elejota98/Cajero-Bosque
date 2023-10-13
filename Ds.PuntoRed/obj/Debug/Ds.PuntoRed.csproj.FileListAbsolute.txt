@@ -1,0 +1,12 @@
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.PuntoRed.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.PuntoRed.pdb
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.BaseService.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.BusinessService.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.DataService.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.BaseService.pdb
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.BusinessService.pdb
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\bin\Debug\Ds.DataService.pdb
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\obj\Debug\Ds.PuntoRed.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\obj\Debug\Ds.PuntoRed.dll
+C:\Proyectos\Desarrollo_SmartCoinServices\Ds.PuntoRed\obj\Debug\Ds.PuntoRed.pdb

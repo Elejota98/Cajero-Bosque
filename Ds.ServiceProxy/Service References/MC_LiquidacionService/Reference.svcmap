@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="208f1e80-2366-4e65-96a1-17fd76e1e091" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MC_LiquidacionService4.xsd" MetadataType="Schema" ID="061ed914-b1d9-4b0e-9c18-9ffe00513e69" SourceId="1" SourceUrl="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?xsd=xsd0" />
+    <MetadataFile FileName="LiquidacionService1.wsdl" MetadataType="Wsdl" ID="8b20d389-40d8-4235-b26b-ac5f25ca2561" SourceId="1" SourceUrl="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?wsdl" />
+    <MetadataFile FileName="MC_LiquidacionService5.xsd" MetadataType="Schema" ID="e82f7c54-a144-4f20-b0d8-a3f299ff7001" SourceId="1" SourceUrl="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MC_LiquidacionService6.xsd" MetadataType="Schema" ID="5ea6ab1c-6bfd-49d4-b9e5-3009a79b97a9" SourceId="1" SourceUrl="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MC_LiquidacionService7.xsd" MetadataType="Schema" ID="be018512-ca23-4280-b43f-52bf0375210f" SourceId="1" SourceUrl="http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

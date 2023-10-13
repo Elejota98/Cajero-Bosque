@@ -1,0 +1,175 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.WCFProxy\obj\Debug\EGlobal_ATM.WCFProxy.pdb

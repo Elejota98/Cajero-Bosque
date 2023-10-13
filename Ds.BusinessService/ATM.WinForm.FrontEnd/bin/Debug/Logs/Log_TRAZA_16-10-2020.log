@@ -1,0 +1,85 @@
+2020/10/16 01:36:01.775 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/16 01:36:15.719 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/16 01:36:15.799 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/16 01:36:15.919 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/16 01:36:16.075 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/16 01:36:16.290 - MENSAJE: Presenter-ConectarLector OK
+2020/10/16 01:36:52.262 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 01:36:52.269 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 01:36:52.335 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/16 01:36:56.673 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/16 01:37:03.888 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/16 01:47:32.150 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/16 01:47:32.356 - MENSAJE: Presenter-DatosConvenio
+2020/10/16 01:47:32.366 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/16 01:47:32.678 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/16 01:47:33.538 - MENSAJE: ObtenerAutorizado ok
+2020/10/16 01:47:33.549 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/16 01:47:58.146 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/16 01:47:58.162 - MENSAJE: Presenter-DatosConvenio
+2020/10/16 01:47:58.166 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/16 01:47:58.521 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/16 01:47:58.618 - MENSAJE: ObtenerAutorizado ok
+2020/10/16 01:47:58.627 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/16 01:48:02.165 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/16 01:48:02.400 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/16 01:48:02.421 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/16 01:48:03.555 - MENSAJE: Presenter-ConfirmarOperacion:  Error_Dispositivo
+2020/10/16 01:48:03.561 - MENSAJE: Error en el billetero ¡Billetero Atascado!
+2020/10/16 01:48:03.573 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Cassette Descripcion: Billetero Atascado
+2020/10/16 01:48:03.581 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Cassette Descripcion: Billetero Atascado
+2020/10/16 01:48:03.591 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/16 01:51:22.511 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/16 01:51:24.711 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/16 01:51:24.754 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/16 01:51:24.817 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/16 01:51:24.881 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/16 01:51:25.035 - MENSAJE: Presenter-ConectarLector OK
+2020/10/16 01:52:01.059 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/16 01:52:01.107 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 01:52:01.113 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 01:52:05.333 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/16 01:52:17.517 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/16 01:52:35.315 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 32
+2020/10/16 01:52:35.408 - MENSAJE: Presenter-DatosConvenio
+2020/10/16 01:52:35.418 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/10/16 01:52:35.723 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: A2CFA127
+2020/10/16 01:52:36.092 - MENSAJE: ObtenerAutorizado ok
+2020/10/16 01:52:36.104 - MENSAJE: _NumeroDocumentoOrigen 1096233601
+2020/10/16 01:52:38.274 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/16 01:52:38.445 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 1096233601
+2020/10/16 01:52:38.455 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 50000
+2020/10/16 01:53:02.993 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/16 01:53:03.382 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/16 01:53:03.393 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/16 01:53:03.403 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/16 01:53:07.329 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/16 01:53:07.557 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/16 01:53:07.563 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/16 01:53:07.568 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/16 01:53:12.101 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/16 01:53:12.251 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/16 01:53:12.261 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/16 01:53:12.271 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/16 01:53:17.269 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/16 01:53:17.302 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/16 01:53:17.318 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/16 01:53:17.328 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/16 01:53:22.384 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 10000
+2020/10/16 01:53:22.475 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/16 01:53:22.486 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/10/16 01:53:22.496 - MENSAJE: Presenter ValorRecibido 10000
+2020/10/16 01:53:27.027 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/16 01:53:31.782 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/16 01:53:41.321 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/16 05:47:48.172 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/16 05:47:51.871 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/16 05:47:51.963 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/16 05:47:52.097 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/16 05:47:52.146 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/16 05:47:52.377 - MENSAJE: Presenter-ConectarLector OK
+2020/10/16 05:48:28.525 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/16 05:48:28.886 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 05:48:28.897 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/10/16 05:48:32.764 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/16 05:48:42.481 - MENSAJE: Presenter-EventosBilletero FinInicio OK

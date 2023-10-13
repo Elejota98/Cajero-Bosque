@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.dsystem.com/types/" elementFormDefault="qualified" targetNamespace="http://www.dsystem.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd2" namespace="http://www.dsystem.co/types/" />
+  <xs:complexType name="getPagosOffline_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://www.dsystem.co/types/" base="q1:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="lstDtoPago" nillable="true" type="q1:ArrayOfServiceDtoPago" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getPagosOffline_Response" nillable="true" type="tns:getPagosOffline_Response" />
+</xs:schema>

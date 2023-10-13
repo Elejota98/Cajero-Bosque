@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Proyectos\SmartCoinService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Ds.BaseService.dll">
+      <publishTime>06/06/2023 10:46:57</publishTime>
+    </File>
+    <File Include="bin/Ds.BaseService.pdb">
+      <publishTime>06/06/2023 10:46:57</publishTime>
+    </File>
+    <File Include="bin/Ds.BusinessService.dll">
+      <publishTime>06/06/2023 10:46:57</publishTime>
+    </File>
+    <File Include="bin/Ds.BusinessService.pdb">
+      <publishTime>06/06/2023 10:46:57</publishTime>
+    </File>
+    <File Include="bin/Ds.DataService.dll">
+      <publishTime>06/06/2023 10:46:59</publishTime>
+    </File>
+    <File Include="bin/Ds.DataService.pdb">
+      <publishTime>06/06/2023 10:46:59</publishTime>
+    </File>
+    <File Include="bin/Ds.ModuloService.dll">
+      <publishTime>06/06/2023 10:47:01</publishTime>
+    </File>
+    <File Include="bin/Ds.ModuloService.pdb">
+      <publishTime>06/06/2023 10:47:01</publishTime>
+    </File>
+    <File Include="bin/EGlobalT_ATM.Host.ActionServer.dll">
+      <publishTime>06/06/2023 10:47:02</publishTime>
+    </File>
+    <File Include="bin/EGlobalT_ATM.Host.ActionServer.pdb">
+      <publishTime>06/06/2023 10:47:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/31/2020 11:28:48</publishTime>
+    </File>
+    <File Include="Ds_ModuloComercialService.svc">
+      <publishTime>10/31/2020 11:29:12</publishTime>
+    </File>
+    <File Include="Mensajes.xml">
+      <publishTime>10/31/2020 11:29:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2023 16:02:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.CtCoin.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoinDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.CtCoin\obj\Debug\EGlobalT_ATM.CtCoin.pdb

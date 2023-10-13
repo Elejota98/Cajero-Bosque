@@ -1,0 +1,69 @@
+2019/11/05 10:40:10.733 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 10:40:20.343 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 10:40:20.408 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 10:40:20.486 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 10:41:06.128 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 10:41:08.821 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 10:41:08.867 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 10:41:08.960 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 01:36:47.095 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 01:37:07.343 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 01:37:07.357 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 01:38:25.055 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 01:38:42.072 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 01:38:42.118 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 02:06:56.583 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:06:58.280 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:06:58.312 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:06:58.344 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:07:05.380 - MENSAJE: Error Presenter-ObtenerInfoParametros: Módulo sin partes registradas en base de datos.
+2019/11/05 02:07:05.385 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2019/11/05 02:07:27.798 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:07:29.192 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:07:29.208 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:07:29.234 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:07:32.273 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 02:08:44.569 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:08:45.949 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:08:45.968 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:08:45.992 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:08:46.091 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 02:09:27.198 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:09:28.488 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:09:28.508 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:09:28.538 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:09:28.565 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 02:10:30.794 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:10:32.083 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:10:32.101 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:10:32.130 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:10:32.162 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 02:30:29.316 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:30:51.696 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 02:30:51.703 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 02:44:34.233 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:44:51.859 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 02:44:51.869 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 02:46:59.021 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:47:19.761 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 02:47:19.765 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 02:48:55.650 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:49:17.104 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2019/11/05 02:49:17.109 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2019/11/05 02:49:35.020 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:53:51.142 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:57:40.125 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 02:58:02.626 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 02:58:02.783 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 02:58:02.928 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 02:58:03.651 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 03:02:37.821 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 03:02:48.820 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 03:02:48.954 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 03:02:49.115 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 03:02:49.283 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2019/11/05 03:04:23.553 - MENSAJE: INICIO APP ATM / TestMode = true
+2019/11/05 03:04:36.219 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2019/11/05 03:04:36.353 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2019/11/05 03:04:36.533 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2019/11/05 03:04:36.672 - MENSAJE: Presenter-ObtenerInfoParametros OK 

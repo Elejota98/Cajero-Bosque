@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetTicketArqueo" targetNamespace="http://tempuri.org/DataSetTicketArqueo.xsd" xmlns:mstns="http://tempuri.org/DataSetTicketArqueo.xsd" xmlns="http://tempuri.org/DataSetTicketArqueo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetTicketArqueo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetTicketArqueo" msprop:Generator_UserDSName="DataSetTicketArqueo">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TablaArqueo" msprop:Generator_TableClassName="TablaArqueoDataTable" msprop:Generator_TableVarName="tableTablaArqueo" msprop:Generator_TablePropName="TablaArqueo" msprop:Generator_RowDeletingName="TablaArqueoRowDeleting" msprop:Generator_RowChangingName="TablaArqueoRowChanging" msprop:Generator_RowEvHandlerName="TablaArqueoRowChangeEventHandler" msprop:Generator_RowDeletedName="TablaArqueoRowDeleted" msprop:Generator_UserTableName="TablaArqueo" msprop:Generator_RowChangedName="TablaArqueoRowChanged" msprop:Generator_RowEvArgName="TablaArqueoRowChangeEvent" msprop:Generator_RowClassName="TablaArqueoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FechaArqueo" msprop:Generator_ColumnVarNameInTable="columnFechaArqueo" msprop:Generator_ColumnPropNameInRow="FechaArqueo" msprop:Generator_ColumnPropNameInTable="FechaArqueoColumn" msprop:Generator_UserColumnName="FechaArqueo" type="xs:string" minOccurs="0" />
+              <xs:element name="CodigoArqueo" msprop:Generator_ColumnVarNameInTable="columnCodigoArqueo" msprop:Generator_ColumnPropNameInRow="CodigoArqueo" msprop:Generator_ColumnPropNameInTable="CodigoArqueoColumn" msprop:Generator_UserColumnName="CodigoArqueo" type="xs:string" minOccurs="0" />
+              <xs:element name="ModuloArqueo" msprop:Generator_ColumnVarNameInTable="columnModuloArqueo" msprop:Generator_ColumnPropNameInRow="ModuloArqueo" msprop:Generator_ColumnPropNameInTable="ModuloArqueoColumn" msprop:Generator_UserColumnName="ModuloArqueo" type="xs:string" minOccurs="0" />
+              <xs:element name="UsuarioArqueo" msprop:Generator_ColumnVarNameInTable="columnUsuarioArqueo" msprop:Generator_ColumnPropNameInRow="UsuarioArqueo" msprop:Generator_ColumnPropNameInTable="UsuarioArqueoColumn" msprop:Generator_UserColumnName="UsuarioArqueo" type="xs:string" minOccurs="0" />
+              <xs:element name="ValorArqueo" msprop:Generator_ColumnVarNameInTable="columnValorArqueo" msprop:Generator_ColumnPropNameInRow="ValorArqueo" msprop:Generator_ColumnPropNameInTable="ValorArqueoColumn" msprop:Generator_UserColumnName="ValorArqueo" type="xs:double" minOccurs="0" />
+              <xs:element name="Denominacion" msprop:Generator_ColumnVarNameInTable="columnDenominacion" msprop:Generator_ColumnPropNameInRow="Denominacion" msprop:Generator_ColumnPropNameInTable="DenominacionColumn" msprop:Generator_UserColumnName="Denominacion" type="xs:int" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:int" minOccurs="0" />
+              <xs:element name="Parte" msprop:Generator_ColumnVarNameInTable="columnParte" msprop:Generator_ColumnPropNameInRow="Parte" msprop:Generator_ColumnPropNameInTable="ParteColumn" msprop:Generator_UserColumnName="Parte" type="xs:string" minOccurs="0" />
+              <xs:element name="TipoArqueo" msprop:Generator_ColumnVarNameInTable="columnTipoArqueo" msprop:Generator_ColumnPropNameInRow="TipoArqueo" msprop:Generator_ColumnPropNameInTable="TipoArqueoColumn" msprop:Generator_UserColumnName="TipoArqueo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

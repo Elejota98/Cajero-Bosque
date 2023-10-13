@@ -1,0 +1,924 @@
+2020/11/13 06:15:23.560 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 06:15:29.288 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 06:15:29.318 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 06:15:29.448 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 06:15:29.488 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 06:15:29.638 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 06:15:33.611 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 06:16:05.532 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 06:16:05.540 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 06:16:05.554 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 06:16:09.787 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 06:16:14.766 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/13 06:16:14.800 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 06:16:14.879 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/13 06:16:15.182 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 7254A627
+2020/11/13 06:16:15.275 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 06:16:19.418 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 06:16:19.455 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113130200301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/13 06:16:19.551 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 06:16:19.559 - MENSAJE: Presenter-IVA 958 SUBTOTAL 5042 TOTAL 6000
+2020/11/13 06:16:19.677 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113130200301
+2020/11/13 06:16:19.688 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 6000
+2020/11/13 06:16:23.146 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 06:16:23.161 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:23.254 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 06:16:23.265 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:23.274 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 06:16:25.117 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 06:16:25.128 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:25.233 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 06:16:25.302 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:25.313 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 06:16:26.849 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 06:16:26.860 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:26.886 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 06:16:26.897 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:26.908 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 06:16:28.720 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 06:16:28.731 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:28.757 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 06:16:28.771 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:28.782 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 06:16:29.392 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 06:16:29.403 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:29.428 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 06:16:29.439 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:29.450 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 06:16:35.549 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 06:16:35.555 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:35.570 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 06:16:35.577 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:35.583 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 06:16:40.674 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 06:16:40.685 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:40.704 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 06:16:40.713 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:40.720 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 06:16:46.937 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 06:16:46.948 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:47.000 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 06:16:47.011 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 06:16:47.023 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 06:16:51.558 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 06:16:51.571 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 06:16:51.585 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 1000 ValorPago: 6000 ValorProcesoCambio: 1000
+2020/11/13 06:16:51.593 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper4
+2020/11/13 06:16:51.709 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper3
+2020/11/13 06:16:53.527 - MENSAJE: idtransaccion movimiento 20201113130200301
+2020/11/13 06:16:53.556 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 5
+2020/11/13 06:16:53.581 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 06:16:53.853 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/11/13 06:16:55.772 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 06:16:55.821 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 06:17:05.185 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 07:48:06.968 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 07:48:21.044 - MENSAJE: Error Presenter-ObtenerInfoModulo: 
+2020/11/13 07:48:21.050 - MENSAJE: Presenter-ObtenerInfoModulo -> Sistema Suspendido - Info Modulo Error
+2020/11/13 07:49:46.103 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 07:49:48.230 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 07:49:48.264 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 07:49:48.331 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 07:49:48.363 - MENSAJE: Error Presenter-ObtenerInfoParametros: Módulo sin partes registradas en base de datos.
+2020/11/13 07:49:48.370 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2020/11/13 07:51:08.088 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 07:51:57.099 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 07:51:57.130 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 07:51:57.172 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 07:51:57.201 - MENSAJE: Error Presenter-ObtenerInfoParametros: Módulo sin partes registradas en base de datos.
+2020/11/13 07:51:57.208 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2020/11/13 07:52:06.035 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 07:52:07.115 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 07:52:08.106 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 07:52:08.943 - MENSAJE: Error Presenter-ObtenerInfoParametros: Módulo sin partes registradas en base de datos.
+2020/11/13 07:52:08.960 - MENSAJE: Presenter-ObtenerInfoParametros -> Sistema Suspendido - Info Parametros Error
+2020/11/13 07:55:26.852 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 07:55:38.328 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 07:55:38.357 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 07:55:38.399 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 07:55:38.446 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 07:55:47.815 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 07:55:51.802 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 07:56:23.966 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 07:56:23.979 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 07:56:23.991 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 07:56:27.987 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 07:56:43.234 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 07:56:43.494 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 07:56:43.501 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 07:56:43.808 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 07:56:43.867 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 07:56:49.157 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 07:56:49.326 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 07:56:51.982 - MENSAJE: System.ServiceModel.EndpointNotFoundException: No había ningún extremo escuchando en http://192.168.1.87:88/MC_LiquidacionService.svc que pudiera aceptar el mensaje. La causa suele ser una dirección o una acción SOAP incorrecta. Consulte InnerException, si está presente, para obtener más información. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.87:88
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   en System.Net.HttpWebRequest.GetRequestStream()
+   en System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   en System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en Ds.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en Ds.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1203
+   en Ds.ServiceProxy.ProxyService.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Modulo\ProxyService_Modulo.cs:línea 2297
+   en ATM.WinForm.Model.Model.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Model\Modulo\Model_Modulo.cs:línea 527
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CABECERA\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4278
+2020/11/13 07:59:25.072 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 07:59:33.141 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 07:59:33.175 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 07:59:33.220 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 07:59:33.266 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 07:59:33.429 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 07:59:37.517 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:00:09.519 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:00:09.527 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:00:09.539 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:00:13.690 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:00:22.130 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:00:22.332 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:00:22.339 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:00:22.657 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:00:22.711 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:00:22.867 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:00:23.029 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:00:23.566 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:00:23.581 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:00:23.788 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:00:23.795 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:00:31.337 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:00:31.483 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:00:31.491 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:00:31.760 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:00:31.778 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:00:31.920 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:00:32.065 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:00:32.093 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:00:32.101 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:00:32.245 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:00:32.252 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:00:39.372 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:00:39.512 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:00:39.519 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:00:39.795 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:00:39.809 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:00:39.951 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:00:40.087 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:00:40.116 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:00:40.123 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:00:40.265 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:00:40.272 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:00:47.421 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:00:47.562 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:00:47.569 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:00:47.875 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:00:47.889 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:00:48.030 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:00:48.171 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:00:48.200 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:00:48.206 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:00:48.344 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:00:48.351 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:00:55.503 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:00:55.644 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:00:55.651 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:00:55.942 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:00:55.956 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:00:56.101 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:00:56.245 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:00:56.274 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:00:56.280 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:00:56.423 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:00:56.429 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:01:03.600 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:01:03.741 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:01:03.748 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:01:04.017 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:01:04.033 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:01:04.175 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:01:04.313 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:01:04.342 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:01:04.348 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:01:04.496 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:01:04.503 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:03:43.217 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:03:45.513 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:03:45.545 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:03:45.590 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:03:45.633 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:03:45.795 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:03:49.886 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:04:21.841 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:04:21.849 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:04:21.861 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:04:25.990 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:04:31.233 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:04:31.439 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:04:31.446 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:04:31.765 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:04:31.814 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:04:31.970 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:04:59.893 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:05:10.370 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:06:00.888 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:06:03.239 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:06:03.273 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:06:03.321 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:06:03.365 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:06:03.525 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:06:07.533 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:06:39.745 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:06:39.756 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:06:39.765 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:06:43.705 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:07:12.133 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:07:12.334 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:07:12.340 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:07:12.651 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:07:12.705 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:07:12.870 - MENSAJE: (Presenter ObtenerFechaServer) Error
+2020/11/13 08:07:19.283 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:07:50.462 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:08:14.290 - MENSAJE: Presenter-IVA 15368 SUBTOTAL 80882 TOTAL 96250
+2020/11/13 08:08:26.901 - MENSAJE: Error Presenter-RegistrarOperacion: 
+2020/11/13 08:08:26.908 - MENSAJE: Presenter RegistrarOperacion -> Sistema Suspendido - Registro Operación Error
+2020/11/13 08:30:36.112 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:30:38.379 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:30:38.408 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:30:38.447 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:30:38.489 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:30:38.655 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:30:42.621 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:31:14.684 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:31:14.692 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:31:14.703 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:31:18.970 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:31:21.404 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:31:21.429 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:31:21.436 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:31:21.709 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 08:31:21.761 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:31:21.820 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:31:30.243 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:31:35.056 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:31:35.067 - MENSAJE: Presenter-IVA 15982 SUBTOTAL 84118 TOTAL 100100
+2020/11/13 08:31:35.285 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011121606593015
+2020/11/13 08:31:35.297 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 100100
+2020/11/13 08:33:09.152 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 08:33:09.345 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 08:33:09.364 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:33:15.312 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:33:15.325 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:33:15.331 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:33:15.605 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 08:33:15.620 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:33:15.635 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:33:18.957 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131731523015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:33:20.862 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:33:20.872 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/13 08:33:20.887 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011131731523015
+2020/11/13 08:33:20.894 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/13 08:33:54.499 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 08:33:54.509 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:33:54.742 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 08:33:54.754 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:33:54.767 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 08:33:59.211 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 08:33:59.224 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:33:59.247 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 08:33:59.259 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:33:59.272 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 08:34:03.901 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 08:34:03.913 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 08:34:03.929 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 150 ValorPago: 3850 ValorProcesoCambio: 150
+2020/11/13 08:34:03.943 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper1
+2020/11/13 08:34:05.007 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:34:05.031 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 08:34:05.056 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:34:05.224 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/11/13 08:34:13.059 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 08:34:13.138 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:34:22.816 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/11/13 08:34:23.353 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2020/11/13 08:41:09.356 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:41:11.445 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:41:11.477 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:41:11.516 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:41:11.556 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:41:11.705 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:41:15.669 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:41:47.583 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:41:47.592 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:41:47.603 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:41:51.891 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/11/13 08:41:52.439 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2020/11/13 08:46:00.907 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:46:03.060 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:46:03.089 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:46:03.127 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:46:03.165 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:46:03.315 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:46:07.348 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:46:39.274 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:46:39.281 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:46:39.405 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:46:43.461 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/11/13 08:46:43.979 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass1
+2020/11/13 08:48:16.775 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:48:18.897 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:48:18.927 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:48:18.966 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:48:19.004 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:48:19.153 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:48:23.142 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:48:55.157 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:48:55.166 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:48:55.179 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:48:59.292 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:49:05.024 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:49:05.051 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:49:05.058 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:49:05.338 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 08:49:05.390 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:49:05.416 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:49:17.345 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131731523015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:49:18.913 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:49:18.923 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 08:49:18.949 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:56:42.832 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 08:56:44.937 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 08:56:44.966 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 08:56:45.007 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:56:45.048 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 08:56:45.203 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 08:56:49.199 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 08:57:21.161 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:57:21.168 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 08:57:21.179 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 08:57:25.360 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 08:57:30.042 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 08:57:30.067 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 08:57:30.074 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 08:57:30.370 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 08:57:30.423 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 08:57:30.450 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:57:33.277 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131731523015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 08:57:46.056 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 08:57:46.064 - MENSAJE: Presenter-IVA 559 SUBTOTAL 2941 TOTAL 3500
+2020/11/13 08:57:46.138 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011131731523015
+2020/11/13 08:57:46.145 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3500
+2020/11/13 08:58:18.659 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 08:58:18.676 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:58:18.779 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 08:58:18.786 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:58:18.794 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 08:58:31.122 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 08:58:31.134 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:58:31.161 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 08:58:31.174 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:58:31.185 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 08:58:33.048 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 08:58:33.054 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:58:33.068 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 08:58:33.075 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:58:33.082 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 08:58:38.153 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 08:58:38.166 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:58:38.184 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 08:58:38.191 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:58:38.197 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 08:58:57.698 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 2000
+2020/11/13 08:58:57.711 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:58:57.738 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/11/13 08:58:57.746 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 08:58:57.754 - MENSAJE: Presenter ValorRecibido 2000
+2020/11/13 08:59:02.357 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 08:59:02.370 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 08:59:02.385 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 1100 ValorPago: 3500 ValorProcesoCambio: 1100
+2020/11/13 08:59:02.393 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper3
+2020/11/13 08:59:03.445 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper1
+2020/11/13 08:59:04.396 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:59:04.426 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 500 Cantidad: 2
+2020/11/13 08:59:04.433 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 08:59:04.450 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 08:59:04.465 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 08:59:04.762 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/11/13 08:59:07.928 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 08:59:07.982 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 08:59:16.941 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 09:27:05.383 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 09:27:07.435 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 09:27:07.464 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 09:27:07.506 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 09:27:07.546 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 09:27:07.697 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 09:27:11.707 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 09:27:43.745 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 09:27:43.796 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 09:27:43.803 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 09:27:47.851 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 09:27:58.596 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 09:27:58.622 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 09:27:58.629 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 09:27:58.941 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 09:27:58.993 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 09:27:59.022 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:27:59.096 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131731523015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 09:28:00.018 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 09:28:00.027 - MENSAJE: Presenter-IVA 559 SUBTOTAL 2941 TOTAL 3500
+2020/11/13 09:28:00.115 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011131731523015
+2020/11/13 09:28:00.122 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3500
+2020/11/13 09:28:21.143 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/11/13 09:28:21.152 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 09:28:21.231 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/11/13 09:28:21.243 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 09:28:21.255 - MENSAJE: Presenter ValorRecibido 5000
+2020/11/13 09:28:25.797 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 09:28:25.810 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 09:28:25.826 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 1500 ValorPago: 3500 ValorProcesoCambio: 1500
+2020/11/13 09:28:25.840 - Set_Coin_Pay: pago_parcial_hopper: 1500 oPay_Unit Hopper3
+2020/11/13 09:28:27.107 - MENSAJE: idtransaccion movimiento 202011131731523015
+2020/11/13 09:28:27.135 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 500 Cantidad: 3
+2020/11/13 09:28:27.154 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 09:28:27.427 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/11/13 09:28:35.259 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 09:28:35.377 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:28:44.962 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 09:32:05.396 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 09:32:05.419 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 09:32:05.425 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 09:32:05.789 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 09:32:05.811 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 09:32:05.825 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:32:05.842 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131731523015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 09:32:05.883 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 09:32:05.895 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 09:32:05.917 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:41:00.090 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 09:41:00.119 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 09:41:00.127 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 09:41:00.474 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 09:41:00.493 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 09:41:00.511 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:41:00.529 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131839393015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 09:41:00.577 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 09:41:00.583 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/13 09:41:00.616 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011131839393015
+2020/11/13 09:41:00.628 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/13 09:41:32.709 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 5000
+2020/11/13 09:41:32.721 - MENSAJE: idtransaccion movimiento 202011131839393015
+2020/11/13 09:41:32.782 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/11/13 09:41:32.795 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 09:41:32.806 - MENSAJE: Presenter ValorRecibido 5000
+2020/11/13 09:41:37.363 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 09:41:37.375 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 09:41:37.386 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 1150 ValorPago: 3850 ValorProcesoCambio: 1150
+2020/11/13 09:41:37.399 - Set_Coin_Pay: pago_parcial_hopper: 1000 oPay_Unit Hopper3
+2020/11/13 09:41:38.558 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper1
+2020/11/13 09:41:39.615 - MENSAJE: idtransaccion movimiento 202011131839393015
+2020/11/13 09:41:39.640 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 500 Cantidad: 2
+2020/11/13 09:41:39.649 - MENSAJE: idtransaccion movimiento 202011131839393015
+2020/11/13 09:41:39.664 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 09:41:39.682 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 09:41:39.869 - MENSAJE: Presenter-ConfirmarOperacion:  Aprobado
+2020/11/13 09:42:06.106 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 09:42:06.126 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 09:42:13.883 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 09:43:19.073 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2020/11/13 09:43:30.410 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2020/11/13 09:43:30.724 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2020/11/13 09:43:34.154 - MENSAJE: FrondEnd-btn_Mantenimiento_Click -> Presion boton Mantenimiento.
+2020/11/13 12:12:56.655 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2020/11/13 12:12:56.892 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2020/11/13 12:12:59.144 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 12:13:00.114 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 12:13:00.133 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 12:13:00.151 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 12:13:00.165 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 12:13:00.714 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 12:13:04.765 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 12:13:37.489 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 12:13:37.503 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 12:13:37.545 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 12:13:41.651 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 12:13:53.755 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:13:53.770 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:13:53.776 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:13:54.139 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 12:13:54.160 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:13:54.174 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:13:54.191 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:13:54.239 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:13:54.251 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/13 12:13:54.285 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 12:13:54.297 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/13 12:14:05.740 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 50
+2020/11/13 12:14:05.752 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 12:14:05.848 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 12:14:05.860 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 12:14:05.870 - MENSAJE: Presenter ValorRecibido 50
+2020/11/13 12:14:10.627 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 12:14:10.639 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 12:14:10.651 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 50 ValorPago: 3850 ValorProcesoCambio: 50
+2020/11/13 12:14:40.677 - MENSAJE: REINTENTO 1 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 3850 ValorProcesoCambio: 50
+2020/11/13 12:14:40.689 - MENSAJE: REINTENTO 2 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 3850 ValorProcesoCambio: 50
+2020/11/13 12:14:40.701 - MENSAJE: Error Presenter-AdministrarProcesoPago: 
+2020/11/13 12:14:40.713 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 12:14:40.795 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:14:41.766 - MENSAJE: Presenter-ConfirmarOperacion:  Error_Dispositivo
+2020/11/13 12:14:41.786 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 12:14:44.280 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:14:44.294 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:14:44.300 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:14:44.608 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 12:14:44.626 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:14:44.640 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:14:44.656 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:14:44.700 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:14:44.706 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 12:14:44.757 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:15:18.236 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:15:18.253 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:15:18.260 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:15:18.615 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 12:15:18.638 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:15:18.653 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:15:18.670 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:15:18.716 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:15:18.728 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 12:15:18.749 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:15:23.266 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:15:23.280 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:15:23.287 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:15:23.614 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 12:15:23.628 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:15:23.642 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:15:23.654 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:15:23.682 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:15:23.689 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 12:15:23.708 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:38:00.979 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:38:01.070 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:38:01.078 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:38:01.373 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 53BC9979
+2020/11/13 12:38:01.394 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:38:01.408 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:38:01.500 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011131839393015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:38:01.553 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:38:01.561 - MENSAJE: Presenter-IVA 1844 SUBTOTAL 9706 TOTAL 11550
+2020/11/13 12:38:01.595 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011131839393015
+2020/11/13 12:38:01.603 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 11550
+2020/11/13 12:38:06.158 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 12:38:06.208 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 12:38:06.224 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 12:38:16.150 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:38:16.165 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:38:16.172 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:38:16.484 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 12:38:16.504 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:38:16.518 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:38:16.545 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:38:16.589 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:38:16.596 - MENSAJE: Presenter-IVA 18441 SUBTOTAL 97059 TOTAL 115500
+2020/11/13 12:38:16.627 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011121606593015
+2020/11/13 12:38:16.634 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 115500
+2020/11/13 12:38:20.395 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 12:38:20.449 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 12:38:20.474 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 12:38:46.450 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 12:38:46.463 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 12:38:46.470 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 12:38:46.833 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 12:38:46.850 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 12:38:46.864 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 12:38:46.878 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 12:38:46.908 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 12:38:46.915 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/13 12:38:46.928 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 12:38:46.935 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/13 12:38:51.044 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 12:38:51.061 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 12:38:51.091 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 12:48:07.455 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2020/11/13 12:49:34.724 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 12:49:43.040 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 12:49:43.071 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 12:49:43.110 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 12:49:43.150 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 12:49:45.227 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/11/13 12:49:49.391 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 12:54:55.232 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 12:54:57.378 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 12:54:57.408 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 12:54:57.449 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 12:54:57.488 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 12:54:59.571 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/11/13 12:55:03.566 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 12:55:37.695 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 12:55:37.740 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 12:55:37.747 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 12:55:40.246 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:28:46.293 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 01:28:52.025 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 01:28:52.494 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 01:28:52.670 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:28:52.719 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 01:28:53.393 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 01:29:29.602 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 01:29:29.874 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 01:29:29.881 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 01:29:33.840 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:29:52.680 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:29:52.865 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:29:52.877 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:29:53.126 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:29:53.800 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:29:53.855 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:29:53.919 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:29:54.060 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:29:54.068 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:29:54.158 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:29:54.165 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:30:31.875 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 50
+2020/11/13 01:30:31.887 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:30:31.984 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 01:30:31.992 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:30:32.000 - MENSAJE: Presenter ValorRecibido 50
+2020/11/13 01:30:34.789 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:30:34.800 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:30:34.810 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 50 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:31:04.835 - MENSAJE: REINTENTO 1 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:31:04.847 - MENSAJE: REINTENTO 2 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:31:04.859 - MENSAJE: Error Presenter-AdministrarProcesoPago: 
+2020/11/13 01:31:04.878 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 01:31:05.041 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:31:08.072 - MENSAJE: Presenter-ConfirmarOperacion:  Error_Dispositivo
+2020/11/13 01:31:08.186 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:32:21.182 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:32:21.297 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:32:21.309 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:32:21.551 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:32:21.572 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:32:21.587 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:32:21.615 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:32:21.651 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:32:21.662 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:32:21.694 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:32:21.701 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:33:12.252 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 100
+2020/11/13 01:33:12.264 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:33:12.313 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:33:12.321 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:33:12.330 - MENSAJE: Presenter ValorRecibido 100
+2020/11/13 01:34:39.916 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 100
+2020/11/13 01:34:39.923 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:34:39.969 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:34:39.976 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:34:39.983 - MENSAJE: Presenter ValorRecibido 100
+2020/11/13 01:34:58.901 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 100
+2020/11/13 01:34:58.913 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:34:58.943 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:34:58.951 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:34:58.959 - MENSAJE: Presenter ValorRecibido 100
+2020/11/13 01:35:01.402 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:35:01.413 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:35:01.425 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 300 ValorPago: 7700 ValorProcesoCambio: 300
+2020/11/13 01:35:01.435 - Set_Coin_Pay: pago_parcial_hopper: 200 oPay_Unit Hopper2
+2020/11/13 01:35:02.920 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper1
+2020/11/13 01:35:03.877 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:35:03.902 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 01:35:03.914 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:35:03.969 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:35:03.997 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:35:04.057 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 01:35:04.080 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:36:08.442 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:36:08.459 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:36:08.465 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:36:08.754 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:36:08.776 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:36:08.789 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:36:08.805 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:36:08.859 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:36:08.868 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:36:08.901 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:36:08.908 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:36:11.059 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 50
+2020/11/13 01:36:11.070 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:36:11.123 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 01:36:11.135 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:36:11.147 - MENSAJE: Presenter ValorRecibido 50
+2020/11/13 01:36:18.682 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:36:18.692 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:36:18.703 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 50 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:36:48.724 - MENSAJE: REINTENTO 1 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:36:48.736 - MENSAJE: REINTENTO 2 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:36:48.747 - MENSAJE: Error Presenter-AdministrarProcesoPago: 
+2020/11/13 01:36:48.759 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 01:36:48.780 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:36:49.180 - MENSAJE: Presenter-ConfirmarOperacion:  Error_Dispositivo
+2020/11/13 01:36:49.195 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:36:51.683 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:36:51.698 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:36:51.705 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:36:51.980 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:36:52.000 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:36:52.013 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:36:52.029 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:36:52.075 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:36:52.086 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:36:52.118 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:36:52.130 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:37:25.521 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 100
+2020/11/13 01:37:25.533 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:37:25.595 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:37:25.607 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:37:25.617 - MENSAJE: Presenter ValorRecibido 100
+2020/11/13 01:37:27.510 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:37:27.522 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:37:27.534 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 100 ValorPago: 7700 ValorProcesoCambio: 100
+2020/11/13 01:37:27.546 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper1
+2020/11/13 01:37:28.501 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:37:28.527 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:37:28.555 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:37:28.607 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 01:37:28.631 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:38:09.314 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Hopper2 Descripcion: Hopper 2: Not Found
+2020/11/13 01:38:09.321 - MENSAJE: Presenter-RegistrarAlarma ->  Parte: Hopper2 Descripcion: Hopper 2: Not Found
+2020/11/13 01:43:35.148 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:43:35.176 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:43:35.183 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:43:35.517 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:43:35.538 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:43:35.554 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:43:35.572 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:43:35.625 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:43:35.631 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:43:35.655 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:43:35.662 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:43:38.766 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 50
+2020/11/13 01:43:38.778 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:43:38.832 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 01:43:38.844 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:43:38.856 - MENSAJE: Presenter ValorRecibido 50
+2020/11/13 01:43:40.761 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:43:40.768 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:43:40.775 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 50 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:44:10.793 - MENSAJE: REINTENTO 1 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:44:10.805 - MENSAJE: REINTENTO 2 -> Presenter AdministrarProcesoPago: Monedas // ValorCambio: 50 ValorEntregado: 0 ValorPago: 7700 ValorProcesoCambio: 50
+2020/11/13 01:44:10.817 - MENSAJE: Error Presenter-AdministrarProcesoPago: 
+2020/11/13 01:44:10.827 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/11/13 01:44:10.846 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:44:11.178 - MENSAJE: Presenter-ConfirmarOperacion:  Error_Dispositivo
+2020/11/13 01:44:11.195 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:45:28.064 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:45:28.084 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:45:28.091 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:45:28.376 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:45:28.402 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:45:28.416 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:45:28.471 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:45:28.526 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:45:28.538 - MENSAJE: Presenter-IVA 1229 SUBTOTAL 6471 TOTAL 7700
+2020/11/13 01:45:28.578 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201113211100115
+2020/11/13 01:45:28.585 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 7700
+2020/11/13 01:45:30.612 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 01:45:30.619 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:45:30.662 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 01:45:30.669 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:45:30.675 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 01:45:33.555 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:45:33.567 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:45:33.579 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 200 ValorPago: 7700 ValorProcesoCambio: 200
+2020/11/13 01:45:33.591 - Set_Coin_Pay: pago_parcial_hopper: 200 oPay_Unit Hopper2
+2020/11/13 01:45:35.187 - MENSAJE: idtransaccion movimiento 20201113211100115
+2020/11/13 01:49:34.522 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/13 01:49:36.655 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/13 01:49:36.685 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/13 01:49:36.725 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:49:36.765 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/13 01:49:36.912 - MENSAJE: Presenter-ConectarLector OK
+2020/11/13 01:49:40.849 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/13 01:50:13.083 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 01:50:13.090 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/13 01:50:13.103 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/13 01:50:17.098 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:50:26.781 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:50:26.805 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:50:26.811 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:50:27.091 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:50:27.142 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:50:27.170 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:27.202 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:50:27.290 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:50:27.299 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 01:50:27.312 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:31.800 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:50:31.814 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:50:31.821 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:50:32.092 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:50:32.112 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:50:32.127 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:32.144 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:50:32.191 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:50:32.202 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 01:50:32.220 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:35.970 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:50:35.983 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:50:35.990 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:50:36.271 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: E3BA9979
+2020/11/13 01:50:36.285 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:50:36.299 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:36.313 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201113211100115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:50:36.341 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:50:36.347 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/13 01:50:36.361 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:44.919 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:50:44.932 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:50:44.938 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:50:45.255 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 01:50:45.270 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:50:45.284 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:50:45.298 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:50:45.325 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:50:45.332 - MENSAJE: Presenter-IVA 19056 SUBTOTAL 100294 TOTAL 119350
+2020/11/13 01:50:45.397 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011121606593015
+2020/11/13 01:50:45.404 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 119350
+2020/11/13 01:50:50.852 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 100
+2020/11/13 01:50:50.869 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:50:50.958 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:50:50.965 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:50:50.972 - MENSAJE: Presenter ValorRecibido 100
+2020/11/13 01:50:52.273 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:50:52.285 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:50:52.295 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 100 ValorPago: 119350 ValorProcesoCambio: 100
+2020/11/13 01:50:52.304 - Set_Coin_Pay: pago_parcial_hopper: 100 oPay_Unit Hopper2
+2020/11/13 01:50:53.365 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:50:53.388 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 1
+2020/11/13 01:50:53.407 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:50:53.518 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 01:50:53.533 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:51:04.107 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:51:04.122 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:51:04.129 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:51:04.432 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 01:51:04.447 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:51:04.460 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:51:04.474 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:51:04.503 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:51:04.510 - MENSAJE: Presenter-IVA 19056 SUBTOTAL 100294 TOTAL 119350
+2020/11/13 01:51:04.524 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011121606593015
+2020/11/13 01:51:04.531 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 119350
+2020/11/13 01:51:07.023 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 200
+2020/11/13 01:51:07.035 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:51:07.061 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 01:51:07.073 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:51:07.081 - MENSAJE: Presenter ValorRecibido 200
+2020/11/13 01:51:08.914 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:51:08.921 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:51:08.928 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 200 ValorPago: 119350 ValorProcesoCambio: 200
+2020/11/13 01:51:08.934 - Set_Coin_Pay: pago_parcial_hopper: 200 oPay_Unit Hopper3
+2020/11/13 01:51:09.996 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:51:10.018 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 1
+2020/11/13 01:51:10.042 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:51:10.059 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 01:51:10.073 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/13 01:51:20.165 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/13 01:51:20.176 - MENSAJE: Presenter-DatosConvenio
+2020/11/13 01:51:20.184 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/13 01:51:20.498 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 33BB9979
+2020/11/13 01:51:20.515 - MENSAJE: ObtenerAutorizado Error
+2020/11/13 01:51:20.529 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/13 01:51:20.541 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =202011121606593015 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/13 01:51:20.570 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/13 01:51:20.578 - MENSAJE: Presenter-IVA 19056 SUBTOTAL 100294 TOTAL 119350
+2020/11/13 01:51:20.601 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 202011121606593015
+2020/11/13 01:51:20.610 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 119350
+2020/11/13 01:51:25.241 - MENSAJE: Presenter RegistrarMovimiento Entrada Billetes Denominacion 50
+2020/11/13 01:51:25.248 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:51:25.262 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 01:51:25.269 - MENSAJE: Presenter RegistrarMovimiento ok
+2020/11/13 01:51:25.275 - MENSAJE: Presenter ValorRecibido 50
+2020/11/13 01:51:27.066 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/13 01:51:27.074 - MENSAJE: Presenter-AdministrarProcesoCambio Monedas -> Prepara Proceso Cambio Monedas
+2020/11/13 01:51:27.083 - MENSAJE: Presenter-AdministrarProcesoPago -> ValorCambio: 50 ValorPago: 119350 ValorProcesoCambio: 50
+2020/11/13 01:51:27.091 - Set_Coin_Pay: pago_parcial_hopper: 50 oPay_Unit Hopper1
+2020/11/13 01:51:28.579 - MENSAJE: idtransaccion movimiento 202011121606593015
+2020/11/13 01:51:28.593 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 50 Cantidad: 1
+2020/11/13 01:51:28.608 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/13 01:51:28.621 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/13 01:51:28.637 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

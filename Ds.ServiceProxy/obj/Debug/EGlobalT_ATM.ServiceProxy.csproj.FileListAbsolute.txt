@@ -1,0 +1,172 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll.config
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.ServiceProxy.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Mensajes.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.WCFProxy.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Exception.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\bin\Debug\EGlobal_ATM.Global.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.Properties.Resources.resources
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.csproj.GenerateResource.Cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.ServiceProxy\obj\Debug\EGlobalT_ATM.ServiceProxy.pdb

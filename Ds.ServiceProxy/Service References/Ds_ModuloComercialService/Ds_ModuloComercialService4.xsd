@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.eglobalt.com/types/" elementFormDefault="qualified" targetNamespace="http://www.eglobalt.com/types/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd2" namespace="http://www.dsystem.co/types/" />
+  <xs:complexType name="ServiceModulo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ID_Modulo" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://www.dsystem.co/types/" minOccurs="0" name="Partes" nillable="true" type="q1:ArrayOfServiceParteModulo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceModulo" nillable="true" type="tns:ServiceModulo" />
+  <xs:complexType name="ServiceUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IdCriptUsuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:long" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceUsuario" nillable="true" type="tns:ServiceUsuario" />
+  <xs:complexType name="ServiceDtoUsuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellido" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cargo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Empresa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombres" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Perfil" type="xs:int" />
+      <xs:element minOccurs="0" name="lstDtoPerfil" nillable="true" type="tns:ArrayOfServiceDtoPerfil" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoUsuario" nillable="true" type="tns:ServiceDtoUsuario" />
+  <xs:complexType name="ArrayOfServiceDtoPerfil">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoPerfil" nillable="true" type="tns:ServiceDtoPerfil" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoPerfil" nillable="true" type="tns:ArrayOfServiceDtoPerfil" />
+  <xs:complexType name="ServiceDtoPerfil">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="NombreControl" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoPerfil" nillable="true" type="tns:ServiceDtoPerfil" />
+  <xs:complexType name="ServiceLogWS">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Entrada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdCajero" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdTransaccion" type="xs:int" />
+      <xs:element minOccurs="0" name="Metodo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Salida" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceLogWS" nillable="true" type="tns:ServiceLogWS" />
+  <xs:complexType name="ArrayOfServiceDtoIngresos">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ServiceDtoIngresos" nillable="true" type="tns:ServiceDtoIngresos" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfServiceDtoIngresos" nillable="true" type="tns:ArrayOfServiceDtoIngresos" />
+  <xs:complexType name="ServiceDtoIngresos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceDtoIngresos" nillable="true" type="tns:ServiceDtoIngresos" />
+</xs:schema>

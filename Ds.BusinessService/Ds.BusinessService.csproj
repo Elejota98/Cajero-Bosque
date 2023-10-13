@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2DF76CA1-CB45-4509-A1B1-40757D1991A7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ds.BusinessService</RootNamespace>
+    <AssemblyName>Ds.BusinessService</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataTransferObject\DtoPIN.cs" />
+    <Compile Include="DataTransferObject\DtoAutorizado.cs" />
+    <Compile Include="DataTransferObject\DtoMovimiento.cs" />
+    <Compile Include="DataTransferObject\DtoCarga.cs" />
+    <Compile Include="DataTransferObject\DtoFactura.cs" />
+    <Compile Include="DataTransferObject\DtoParteModuloF56.cs" />
+    <Compile Include="DataTransferObject\DtoTarjetas.cs" />
+    <Compile Include="DataTransferObject\DtoTransacciones.cs" />
+    <Compile Include="DataTransferObject\DtoLogMovimiento.cs" />
+    <Compile Include="DataTransferObject\DtoIngresos.cs" />
+    <Compile Include="DataTransferObject\DtoAccion.cs" />
+    <Compile Include="DataTransferObject\DtoArqueo.cs" />
+    <Compile Include="DataTransferObject\DtoModulo.cs" />
+    <Compile Include="DataTransferObject\DtoOperacion.cs" />
+    <Compile Include="DataTransferObject\DtoPago.cs" />
+    <Compile Include="DataTransferObject\DtoParametro.cs" />
+    <Compile Include="DataTransferObject\DtoParteModulo.cs" />
+    <Compile Include="DataTransferObject\DtoPerfil.cs" />
+    <Compile Include="DataTransferObject\DtoSaldos.cs" />
+    <Compile Include="DataTransferObject\DtoUsuario.cs" />
+    <Compile Include="Entities\Alarma.cs" />
+    <Compile Include="Entities\Arqueo.cs" />
+    <Compile Include="Entities\Carga.cs" />
+    <Compile Include="Entities\ConsultarValorResult.cs" />
+    <Compile Include="Entities\Autorizado.cs" />
+    <Compile Include="Entities\TarjetaSmart.cs" />
+    <Compile Include="Entities\Tarjeta.cs" />
+    <Compile Include="Entities\Imagen.cs" />
+    <Compile Include="Entities\LogMovimiento.cs" />
+    <Compile Include="Entities\Ingresos.cs" />
+    <Compile Include="Entities\LogWS.cs" />
+    <Compile Include="Entities\Modulo.cs" />
+    <Compile Include="Entities\Movimiento.cs" />
+    <Compile Include="Entities\Operacion.cs" />
+    <Compile Include="Entities\Pago.cs" />
+    <Compile Include="Entities\ParteModulo.cs" />
+    <Compile Include="Entities\ResultadoOperacion.cs" />
+    <Compile Include="Entities\Transaccion.cs" />
+    <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="Enums\DataTableEnums.cs" />
+    <Compile Include="Enums\TipoEstadoPago.cs" />
+    <Compile Include="Enums\TipoMovimiento.cs" />
+    <Compile Include="Enums\TipoOperacion.cs" />
+    <Compile Include="Enums\TipoPago.cs" />
+    <Compile Include="Enums\TipoRespuesta.cs" />
+    <Compile Include="Enums\TipoValidarSaldosMinimos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

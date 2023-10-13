@@ -1,0 +1,64 @@
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll.config
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.DataService.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\bin\Debug\EGlobalT_ATM.BusinessService.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.DataService\obj\Debug\EGlobalT_ATM.DataService.pdb

@@ -1,0 +1,64 @@
+2020/11/19 09:20:51.609 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/19 09:20:57.013 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/19 09:20:57.041 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/19 09:20:57.081 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/19 09:20:57.122 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/19 09:20:57.326 - MENSAJE: Presenter-ConectarLector OK
+2020/11/19 09:21:01.324 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/19 09:21:37.529 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/19 09:21:40.701 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/19 09:21:59.154 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/19 09:21:59.164 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/19 09:21:59.483 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 83919979
+2020/11/19 09:21:59.526 - MENSAJE: ObtenerAutorizado Error
+2020/11/19 09:22:03.313 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/19 09:22:23.179 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201119091729115 REPO = False TipoVehiculo = 2 Codigo = 0
+2020/11/19 09:26:16.916 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/19 09:26:16.931 - MENSAJE: Presenter-IVA 0 SUBTOTAL 0 TOTAL 0
+2020/11/19 09:26:16.993 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/19 09:26:28.177 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/19 09:26:28.188 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/19 09:26:28.491 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 83919979
+2020/11/19 09:26:28.508 - MENSAJE: ObtenerAutorizado Error
+2020/11/19 09:26:35.507 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/19 09:27:02.590 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201119091729115 REPO = False TipoVehiculo = 2 Codigo = 0
+2020/11/19 10:28:29.957 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/19 10:28:32.922 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/19 10:28:32.953 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/19 10:28:32.998 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/19 10:28:33.082 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/19 10:28:33.310 - MENSAJE: Presenter-ConectarLector OK
+2020/11/19 10:28:37.301 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/19 10:29:13.496 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/19 10:29:16.662 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/19 10:29:22.732 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/19 10:29:22.751 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/19 10:29:26.634 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: C6843628
+2020/11/19 10:40:22.218 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/19 10:40:24.378 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/19 10:40:24.403 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/19 10:40:24.440 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/19 10:40:24.474 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/19 10:40:24.678 - MENSAJE: Presenter-ConectarLector OK
+2020/11/19 10:40:28.653 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/19 10:41:04.845 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/19 10:41:07.710 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/19 10:41:12.318 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/19 10:41:12.338 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/19 10:41:16.006 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: C6843628
+2020/11/19 10:41:16.081 - MENSAJE: ObtenerAutorizado ok
+2020/11/19 10:41:16.087 - MENSAJE: _NumeroDocumentoOrigen 1098695544
+2020/11/19 10:47:19.860 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/19 10:47:21.872 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/19 10:47:21.898 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/19 10:47:21.935 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/19 10:47:21.972 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/19 10:47:22.181 - MENSAJE: Presenter-ConectarLector OK
+2020/11/19 10:47:26.215 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/19 10:48:02.433 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/19 10:48:06.582 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/19 10:48:06.601 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/19 10:48:06.890 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: C6843628
+2020/11/19 10:48:06.948 - MENSAJE: ObtenerAutorizado ok
+2020/11/19 10:48:06.955 - MENSAJE: _NumeroDocumentoOrigen 1098695544
+2020/11/19 10:48:08.147 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device

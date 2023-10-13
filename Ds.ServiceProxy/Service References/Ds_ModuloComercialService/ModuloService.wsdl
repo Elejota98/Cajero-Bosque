@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ModuloService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd2" namespace="http://www.dsystem.co/types/" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd3" namespace="http://www.eglobalt.com/types/" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/Ds.BusinessService.Enums" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd6" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd7" namespace="http://www.dsystem.com/types/" />
+      <xsd:import schemaLocation="http://localhost:99/DsService/Ds_ModuloComercialService.svc?xsd=xsd8" namespace="http://www.MillensCorp.com/types/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IModuloService_getInformacionModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionModulo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getInformacionModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getInformacionFactura_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionFactura" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getInformacionFactura_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInformacionFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPartesModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesModulo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPartesModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPartesF56Modulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesF56Modulo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPartesF56Modulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPartesF56ModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getParametrosModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getParametrosModulo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getParametrosModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getParametrosModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarSaldosMinimos_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSaldosMinimos" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarSaldosMinimos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSaldosMinimosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarOperacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarOperacion" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarOperacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarOperacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarArqueo_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarArqueo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarArqueo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarArqueoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarCarga_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarCarga" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarCarga_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarCargaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarMovimiento_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarMovimiento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getObtenerSaldosPartes_InputMessage">
+    <wsdl:part name="parameters" element="tns:getObtenerSaldosPartes" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getObtenerSaldosPartes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getObtenerSaldosPartesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setConfirmarOperacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:setConfirmarOperacion" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setConfirmarOperacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setConfirmarOperacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getObtenerUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:getObtenerUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getObtenerUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getObtenerUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setGenerarClave_InputMessage">
+    <wsdl:part name="parameters" element="tns:setGenerarClave" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setGenerarClave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setGenerarClaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarClave_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarClave" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarClave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarClaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getToken_InputMessage">
+    <wsdl:part name="parameters" element="tns:getToken" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getToken_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTokenResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCrearAlarma_InputMessage">
+    <wsdl:part name="parameters" element="tns:setCrearAlarma" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCrearAlarma_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setCrearAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setSolucionarAlarma_InputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarAlarma" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setSolucionarAlarma_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarAlarmaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setSolucionarTodasAlarmas_InputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarTodasAlarmas" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setSolucionarTodasAlarmas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setSolucionarTodasAlarmasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCrearLogWS_InputMessage">
+    <wsdl:part name="parameters" element="tns:setCrearLogWS" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCrearLogWS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setCrearLogWSResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setInsertarConfirmacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:setInsertarConfirmacion" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setInsertarConfirmacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setInsertarConfirmacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getIdTransacciones_InputMessage">
+    <wsdl:part name="parameters" element="tns:getIdTransacciones" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getIdTransacciones_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getIdTransaccionesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getLogMovimiento_InputMessage">
+    <wsdl:part name="parameters" element="tns:getLogMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getLogMovimiento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getLogMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarSegundaClave_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSegundaClave" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarSegundaClave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSegundaClaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getTransaccionesOfflineModulo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTransaccionesOfflineModulo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getTransaccionesOfflineModulo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTransaccionesOfflineModuloResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPagosOffline_InputMessage">
+    <wsdl:part name="parameters" element="tns:getPagosOffline" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getPagosOffline_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getPagosOfflineResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getLogMovimientoOffline_InputMessage">
+    <wsdl:part name="parameters" element="tns:getLogMovimientoOffline" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getLogMovimientoOffline_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getLogMovimientoOfflineResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setActualizarRegistro_InputMessage">
+    <wsdl:part name="parameters" element="tns:setActualizarRegistro" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setActualizarRegistro_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setActualizarRegistroResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getDetalleArqueo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDetalleArqueo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getDetalleArqueo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDetalleArqueoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_SetMonitoreo_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetMonitoreo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_SetMonitoreo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetMonitoreoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:setCliente" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarCliente" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaValor_InputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaValor" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaValor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaValorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaPagoCelular_InputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaPagoCelular" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaPagoCelular_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaPagoCelularResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoCelular_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoCelular" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoCelular_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoCelularResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoEfectivo_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoEfectivo" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoEfectivo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoEfectivoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoDatafono_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoDatafono" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoDatafono_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoDatafonoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoPrepago_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoPrepago" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPagoPrepago_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPagoPrepagoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getDatosConvenio_InputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConvenio" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getDatosConvenio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getDatosConvenioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarConvenioValidado_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarConvenioValidado" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarConvenioValidado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarConvenioValidadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarConvenio_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarConvenio" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarConvenio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarConvenioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getInfoAutorizado_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizado" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getInfoAutorizado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarTransaccion_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarTransaccion" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarTransaccion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarTransaccionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTransaccionEntrada_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTransaccionEntrada" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTransaccionEntrada_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTransaccionEntradaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getFecha_InputMessage">
+    <wsdl:part name="parameters" element="tns:getFecha" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getFecha_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getFechaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarConvenioAplicado_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarConvenioAplicado" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarConvenioAplicado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarConvenioAplicadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTiempoGracia_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTiempoGracia" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTiempoGracia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTiempoGraciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getFechaConvenio_InputMessage">
+    <wsdl:part name="parameters" element="tns:getFechaConvenio" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getFechaConvenio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getFechaConvenioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getTarjetas_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTarjetas" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getTarjetas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTarjetasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaPlaca_InputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaPlaca" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getConsultaPlaca_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getConsultaPlacaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPIN_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPIN" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPIN_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPINResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarPIN_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarPIN" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_getValidarPIN_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarPINResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPAGOPIN_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPAGOPIN" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarPAGOPIN_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarPAGOPINResponse" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTansaccionEvento_InputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTansaccionEvento" />
+  </wsdl:message>
+  <wsdl:message name="IModuloService_setRegistrarTansaccionEvento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setRegistrarTansaccionEventoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IModuloService">
+    <wsdl:operation name="getInformacionModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getInformacionModulo" message="tns:IModuloService_getInformacionModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getInformacionModuloResponse" message="tns:IModuloService_getInformacionModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInformacionFactura">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getInformacionFactura" message="tns:IModuloService_getInformacionFactura_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getInformacionFacturaResponse" message="tns:IModuloService_getInformacionFactura_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getPartesModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getPartesModulo" message="tns:IModuloService_getPartesModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getPartesModuloResponse" message="tns:IModuloService_getPartesModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getPartesF56Modulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getPartesF56Modulo" message="tns:IModuloService_getPartesF56Modulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getPartesF56ModuloResponse" message="tns:IModuloService_getPartesF56Modulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getParametrosModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getParametrosModulo" message="tns:IModuloService_getParametrosModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getParametrosModuloResponse" message="tns:IModuloService_getParametrosModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSaldosMinimos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarSaldosMinimos" message="tns:IModuloService_getValidarSaldosMinimos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarSaldosMinimosResponse" message="tns:IModuloService_getValidarSaldosMinimos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarOperacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarOperacion" message="tns:IModuloService_setRegistrarOperacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarOperacionResponse" message="tns:IModuloService_setRegistrarOperacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarArqueo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarArqueo" message="tns:IModuloService_setRegistrarArqueo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarArqueoResponse" message="tns:IModuloService_setRegistrarArqueo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarCarga">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarCarga" message="tns:IModuloService_setRegistrarCarga_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarCargaResponse" message="tns:IModuloService_setRegistrarCarga_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarMovimiento">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarMovimiento" message="tns:IModuloService_setRegistrarMovimiento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarMovimientoResponse" message="tns:IModuloService_setRegistrarMovimiento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getObtenerSaldosPartes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getObtenerSaldosPartes" message="tns:IModuloService_getObtenerSaldosPartes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getObtenerSaldosPartesResponse" message="tns:IModuloService_getObtenerSaldosPartes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setConfirmarOperacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setConfirmarOperacion" message="tns:IModuloService_setConfirmarOperacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setConfirmarOperacionResponse" message="tns:IModuloService_setConfirmarOperacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getObtenerUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getObtenerUsuario" message="tns:IModuloService_getObtenerUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getObtenerUsuarioResponse" message="tns:IModuloService_getObtenerUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setGenerarClave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setGenerarClave" message="tns:IModuloService_setGenerarClave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setGenerarClaveResponse" message="tns:IModuloService_setGenerarClave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarClave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarClave" message="tns:IModuloService_getValidarClave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarClaveResponse" message="tns:IModuloService_getValidarClave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getToken">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getToken" message="tns:IModuloService_getToken_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getTokenResponse" message="tns:IModuloService_getToken_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setCrearAlarma">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setCrearAlarma" message="tns:IModuloService_setCrearAlarma_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setCrearAlarmaResponse" message="tns:IModuloService_setCrearAlarma_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarAlarma">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setSolucionarAlarma" message="tns:IModuloService_setSolucionarAlarma_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setSolucionarAlarmaResponse" message="tns:IModuloService_setSolucionarAlarma_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarTodasAlarmas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setSolucionarTodasAlarmas" message="tns:IModuloService_setSolucionarTodasAlarmas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setSolucionarTodasAlarmasResponse" message="tns:IModuloService_setSolucionarTodasAlarmas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setCrearLogWS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setCrearLogWS" message="tns:IModuloService_setCrearLogWS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setCrearLogWSResponse" message="tns:IModuloService_setCrearLogWS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setInsertarConfirmacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setInsertarConfirmacion" message="tns:IModuloService_setInsertarConfirmacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setInsertarConfirmacionResponse" message="tns:IModuloService_setInsertarConfirmacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getIdTransacciones">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getIdTransacciones" message="tns:IModuloService_getIdTransacciones_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getIdTransaccionesResponse" message="tns:IModuloService_getIdTransacciones_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getLogMovimiento">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getLogMovimiento" message="tns:IModuloService_getLogMovimiento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getLogMovimientoResponse" message="tns:IModuloService_getLogMovimiento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSegundaClave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarSegundaClave" message="tns:IModuloService_getValidarSegundaClave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarSegundaClaveResponse" message="tns:IModuloService_getValidarSegundaClave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTransaccionesOfflineModulo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getTransaccionesOfflineModulo" message="tns:IModuloService_getTransaccionesOfflineModulo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getTransaccionesOfflineModuloResponse" message="tns:IModuloService_getTransaccionesOfflineModulo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getPagosOffline">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getPagosOffline" message="tns:IModuloService_getPagosOffline_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getPagosOfflineResponse" message="tns:IModuloService_getPagosOffline_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getLogMovimientoOffline">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getLogMovimientoOffline" message="tns:IModuloService_getLogMovimientoOffline_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getLogMovimientoOfflineResponse" message="tns:IModuloService_getLogMovimientoOffline_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setActualizarRegistro">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setActualizarRegistro" message="tns:IModuloService_setActualizarRegistro_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setActualizarRegistroResponse" message="tns:IModuloService_setActualizarRegistro_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDetalleArqueo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getDetalleArqueo" message="tns:IModuloService_getDetalleArqueo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getDetalleArqueoResponse" message="tns:IModuloService_getDetalleArqueo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetMonitoreo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/SetMonitoreo" message="tns:IModuloService_SetMonitoreo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/SetMonitoreoResponse" message="tns:IModuloService_SetMonitoreo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setCliente" message="tns:IModuloService_setCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setClienteResponse" message="tns:IModuloService_setCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarCliente" message="tns:IModuloService_getValidarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarClienteResponse" message="tns:IModuloService_getValidarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaValor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getConsultaValor" message="tns:IModuloService_getConsultaValor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getConsultaValorResponse" message="tns:IModuloService_getConsultaValor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaPagoCelular">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getConsultaPagoCelular" message="tns:IModuloService_getConsultaPagoCelular_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getConsultaPagoCelularResponse" message="tns:IModuloService_getConsultaPagoCelular_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoCelular">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoCelular" message="tns:IModuloService_setRegistrarPagoCelular_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoCelularResponse" message="tns:IModuloService_setRegistrarPagoCelular_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoEfectivo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoEfectivo" message="tns:IModuloService_setRegistrarPagoEfectivo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoEfectivoResponse" message="tns:IModuloService_setRegistrarPagoEfectivo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoDatafono">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoDatafono" message="tns:IModuloService_setRegistrarPagoDatafono_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoDatafonoResponse" message="tns:IModuloService_setRegistrarPagoDatafono_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoPrepago">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoPrepago" message="tns:IModuloService_setRegistrarPagoPrepago_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPagoPrepagoResponse" message="tns:IModuloService_setRegistrarPagoPrepago_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConvenio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getDatosConvenio" message="tns:IModuloService_getDatosConvenio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getDatosConvenioResponse" message="tns:IModuloService_getDatosConvenio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarConvenioValidado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarConvenioValidado" message="tns:IModuloService_setRegistrarConvenioValidado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarConvenioValidadoResponse" message="tns:IModuloService_setRegistrarConvenioValidado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarConvenio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarConvenio" message="tns:IModuloService_getValidarConvenio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarConvenioResponse" message="tns:IModuloService_getValidarConvenio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getInfoAutorizado" message="tns:IModuloService_getInfoAutorizado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getInfoAutorizadoResponse" message="tns:IModuloService_getInfoAutorizado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarTransaccion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarTransaccion" message="tns:IModuloService_getValidarTransaccion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarTransaccionResponse" message="tns:IModuloService_getValidarTransaccion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTransaccionEntrada">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTransaccionEntrada" message="tns:IModuloService_setRegistrarTransaccionEntrada_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTransaccionEntradaResponse" message="tns:IModuloService_setRegistrarTransaccionEntrada_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getFecha">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getFecha" message="tns:IModuloService_getFecha_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getFechaResponse" message="tns:IModuloService_getFecha_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarConvenioAplicado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarConvenioAplicado" message="tns:IModuloService_setRegistrarConvenioAplicado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarConvenioAplicadoResponse" message="tns:IModuloService_setRegistrarConvenioAplicado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTiempoGracia">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTiempoGracia" message="tns:IModuloService_setRegistrarTiempoGracia_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTiempoGraciaResponse" message="tns:IModuloService_setRegistrarTiempoGracia_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getFechaConvenio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getFechaConvenio" message="tns:IModuloService_getFechaConvenio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getFechaConvenioResponse" message="tns:IModuloService_getFechaConvenio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTarjetas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getTarjetas" message="tns:IModuloService_getTarjetas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getTarjetasResponse" message="tns:IModuloService_getTarjetas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaPlaca">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getConsultaPlaca" message="tns:IModuloService_getConsultaPlaca_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getConsultaPlacaResponse" message="tns:IModuloService_getConsultaPlaca_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPIN">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPIN" message="tns:IModuloService_setRegistrarPIN_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPINResponse" message="tns:IModuloService_setRegistrarPIN_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarPIN">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/getValidarPIN" message="tns:IModuloService_getValidarPIN_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/getValidarPINResponse" message="tns:IModuloService_getValidarPIN_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPAGOPIN">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPAGOPIN" message="tns:IModuloService_setRegistrarPAGOPIN_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarPAGOPINResponse" message="tns:IModuloService_setRegistrarPAGOPIN_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTansaccionEvento">
+      <wsdl:input wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTansaccionEvento" message="tns:IModuloService_setRegistrarTansaccionEvento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IModuloService/setRegistrarTansaccionEventoResponse" message="tns:IModuloService_setRegistrarTansaccionEvento_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="basicHttpBinding_ModuloService" type="tns:IModuloService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getInformacionModulo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getInformacionModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInformacionFactura">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getInformacionFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPartesModulo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getPartesModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPartesF56Modulo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getPartesF56Modulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getParametrosModulo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getParametrosModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSaldosMinimos">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarSaldosMinimos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarOperacion">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarOperacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarArqueo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarArqueo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarCarga">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarCarga" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarMovimiento">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getObtenerSaldosPartes">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getObtenerSaldosPartes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setConfirmarOperacion">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setConfirmarOperacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getObtenerUsuario">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getObtenerUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setGenerarClave">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setGenerarClave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarClave">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarClave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getToken">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getToken" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setCrearAlarma">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setCrearAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarAlarma">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setSolucionarAlarma" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setSolucionarTodasAlarmas">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setSolucionarTodasAlarmas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setCrearLogWS">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setCrearLogWS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setInsertarConfirmacion">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setInsertarConfirmacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getIdTransacciones">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getIdTransacciones" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLogMovimiento">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getLogMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSegundaClave">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarSegundaClave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTransaccionesOfflineModulo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getTransaccionesOfflineModulo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPagosOffline">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getPagosOffline" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLogMovimientoOffline">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getLogMovimientoOffline" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setActualizarRegistro">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setActualizarRegistro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDetalleArqueo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getDetalleArqueo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetMonitoreo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/SetMonitoreo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setCliente">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarCliente">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaValor">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getConsultaValor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaPagoCelular">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getConsultaPagoCelular" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoCelular">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPagoCelular" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoEfectivo">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPagoEfectivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoDatafono">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPagoDatafono" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPagoPrepago">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPagoPrepago" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDatosConvenio">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getDatosConvenio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarConvenioValidado">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarConvenioValidado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarConvenio">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarConvenio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizado">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getInfoAutorizado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarTransaccion">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarTransaccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTransaccionEntrada">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarTransaccionEntrada" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getFecha">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getFecha" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarConvenioAplicado">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarConvenioAplicado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTiempoGracia">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarTiempoGracia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getFechaConvenio">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getFechaConvenio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTarjetas">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getTarjetas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConsultaPlaca">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getConsultaPlaca" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPIN">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPIN" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarPIN">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/getValidarPIN" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarPAGOPIN">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarPAGOPIN" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setRegistrarTansaccionEvento">
+      <soap:operation soapAction="http://tempuri.org/IModuloService/setRegistrarTansaccionEvento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ModuloService">
+    <wsdl:port name="basicHttpBinding_ModuloService" binding="tns:basicHttpBinding_ModuloService">
+      <soap:address location="http://localhost:99/DsService/Ds_ModuloComercialService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

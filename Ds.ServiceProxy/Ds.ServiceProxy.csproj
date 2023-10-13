@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1139CFD5-70CB-41FE-BADF-C6F37D903773}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ds.ServiceProxy</RootNamespace>
+    <AssemblyName>Ds.ServiceProxy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Base\IProxyService.cs" />
+    <Compile Include="Base\ProxyService.cs" />
+    <Compile Include="Cliente\IProxyService_Cliente.cs" />
+    <Compile Include="Cliente\ProxyService_Cliente.cs" />
+    <Compile Include="DataTransferObjectMapper\Mapper_ModuloServices.cs" />
+    <Compile Include="Modulo\ProxyService_Modulo.cs" />
+    <Compile Include="Modulo\IProxyService_Modulo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\Ds_ModuloComercialService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MC_LiquidacionService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getCityParking_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getDatosConvenio_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getDetalleArqueo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getFecha_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getIdTransacciones_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getInfoAutorizado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getInformacionFactura_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getInformacionModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getLogMovimiento_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getMovimientosOffline_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getObtenerSaldosPartes_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getObtenerUsuario_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getPagosOffline_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getParametrosModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getPartesModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getTarjetas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getTransaccionesOfflineModulo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarClave_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarCliente_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarConvenio_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarSaldosMinimos_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarSegundaClave_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.getValidarTransaccion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setActualizarRegistro_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setCliente_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setConfirmarOperacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setCrearAlarma_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setCrearLogWS_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setGenerarClave_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setInsertarConfirmacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setMonitoreo_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setRegistrarConvenioAplicado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setRegistrarConvenioValidado_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setRegistrarMovimiento_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setRegistrarOperacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setRegistrarTransaccion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setSolucionarAlarma_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds.ServiceProxy.Ds_ModuloComercialService.setSolucionarTodasAlarmas_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService61.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Ds_ModuloComercialService\ModuloService.wsdl" />
+    <None Include="Service References\MC_LiquidacionService\Ds.ServiceProxy.MC_LiquidacionService.Liquidacion_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Ds_ModuloComercialService\" />
+    <WCFMetadataStorage Include="Service References\MC_LiquidacionService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Ds_ModuloComercialService\Ds_ModuloComercialService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Ds_ModuloComercialService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Ds_ModuloComercialService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Ds_ModuloComercialService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ds.BusinessObjects\Ds.BusinessObjects.csproj">
+      <Project>{ff88af37-1850-421c-a833-1f0e75b87d19}</Project>
+      <Name>Ds.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.Utilidades\Ds.Utilidades.csproj">
+      <Project>{39038b2a-c877-4c96-bf39-fa07ea2ba965}</Project>
+      <Name>Ds.Utilidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ds.WCFProxy\Ds.WCFProxy.csproj">
+      <Project>{14721e2b-3373-4977-8fcd-bff1ec74e017}</Project>
+      <Name>Ds.WCFProxy</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MC_LiquidacionService\LiquidacionService1.wsdl" />
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\MC_LiquidacionService7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MC_LiquidacionService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

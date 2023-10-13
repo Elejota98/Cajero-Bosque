@@ -1,0 +1,16 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.PLCDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.PLCDevice.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.Properties.Resources.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.BusinessObjects.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.Utilidades.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.BusinessObjects.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.PLCDevice\bin\Debug\Claro.Utilidades.pdb
+C:\Users\GTOVAR\Music\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Music\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.Properties.Resources.resources
+C:\Users\GTOVAR\Music\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Music\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.dll
+C:\Users\GTOVAR\Music\Claro.PLCDevice\obj\Debug\Claro.PLCDevice.pdb

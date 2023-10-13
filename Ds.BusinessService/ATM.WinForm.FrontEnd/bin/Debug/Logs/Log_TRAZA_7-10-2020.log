@@ -1,0 +1,267 @@
+2020/10/07 09:28:48.112 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:28:52.356 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:28:52.605 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:28:53.158 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:28:53.275 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:28:55.403 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 09:28:59.367 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 09:29:28.201 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 09:29:36.058 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 09:29:40.573 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2020/10/07 09:30:53.523 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:30:56.570 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:30:56.637 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:30:56.720 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:30:56.779 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:30:58.901 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 09:31:02.802 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 09:31:29.634 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 09:31:39.422 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 09:31:41.816 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2020/10/07 09:32:47.508 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:32:50.291 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:32:50.339 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:32:50.413 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:32:50.458 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:33:27.084 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 09:33:44.714 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 09:34:13.605 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 09:34:21.520 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 09:34:25.913 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2020/10/07 09:35:50.300 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:35:53.072 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:35:53.116 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:35:53.184 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:35:53.233 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:35:55.349 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 09:35:59.319 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 09:36:26.139 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 09:36:35.943 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 09:42:09.806 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:42:13.843 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:42:14.686 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:42:14.986 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:42:15.218 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:42:17.333 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 09:42:21.236 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 09:42:48.133 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 09:42:58.773 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 09:04:45.181 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:04:55.947 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:04:56.135 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:04:56.244 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:04:56.306 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:04:56.400 - MENSAJE: Presenter-ConectarLector ERRORError de conexión...
+2020/10/07 09:04:56.400 - MENSAJE: FrondEnd-ConectarDispositivos -> ConectarLector not Ready
+2020/10/07 09:06:57.516 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:07:01.630 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:07:01.857 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:07:01.927 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:07:01.978 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:07:02.034 - MENSAJE: Presenter-ConectarLector ERRORError de conexión...
+2020/10/07 09:07:02.041 - MENSAJE: FrondEnd-ConectarDispositivos -> ConectarLector not Ready
+2020/10/07 09:10:34.629 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 09:10:38.753 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 09:10:38.836 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 09:10:38.908 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 09:10:39.006 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 09:10:39.059 - MENSAJE: Presenter-ConectarLector ERRORError de conexión...
+2020/10/07 09:10:39.066 - MENSAJE: FrondEnd-ConectarDispositivos -> ConectarLector not Ready
+2020/10/07 03:19:13.081 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 03:19:22.063 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 03:19:22.702 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 03:19:22.823 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 03:19:22.881 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 03:19:24.997 - MENSAJE: Presenter-ConectarLector OKError expulsando tarjeta...
+2020/10/07 03:20:03.408 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 03:20:05.896 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 03:20:17.028 - MENSAJE: Presenter-LeerTarjeta ERRORLector desconectado...
+2020/10/07 03:20:19.290 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 04:33:45.701 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 04:33:47.981 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 04:33:48.045 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 04:33:48.092 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:33:48.137 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 04:33:48.296 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 04:33:53.070 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 04:34:24.453 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 04:34:28.611 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 04:36:20.357 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/10/07 04:36:20.385 - MENSAJE: Presenter-DatosConvenio
+2020/10/07 04:36:20.391 - MENSAJE: Presenter-DatosConvenio error
+2020/10/07 04:36:20.691 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 06E8546A
+2020/10/07 04:36:21.020 - MENSAJE: ObtenerAutorizado Error
+2020/10/07 04:36:21.040 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =2020100711275011 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/10/07 04:36:21.256 - MENSAJE: Presenter-ConsultaValor ok 
+2020/10/07 04:36:21.263 - MENSAJE: Presenter-LISTA ENTIDAD NULL
+2020/10/07 04:36:21.270 - MENSAJE: Presenter-IVA 2874 SUBTOTAL 15126 TOTAL 18000
+2020/10/07 04:36:22.078 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 2020100711275011
+2020/10/07 04:36:22.088 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 18000
+2020/10/07 04:38:37.473 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/10/07 04:38:40.520 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/10/07 04:38:40.591 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/10/07 04:42:31.417 - MENSAJE: FrondEnd-CapaAyudaPrincipal_Click -> boton acceso Usuario
+2020/10/07 04:42:39.251 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2020/10/07 04:42:39.716 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2020/10/07 04:42:40.207 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2020/10/07 04:42:43.063 - MENSAJE: FrondEnd-btn_ArqueoParcial_Click -> boton Arqueo Parcial.
+2020/10/07 04:43:38.524 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 145652
+2020/10/07 04:43:40.402 - MENSAJE: Presenter-ConfirmarOperacion: 
+2020/10/07 04:43:40.413 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 0
+2020/10/07 04:43:40.424 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2020/10/07 04:43:40.505 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/07 04:43:58.762 - MENSAJE: FrondEnd-btn_Arqueo_Click -> Presion boton Arqueo.
+2020/10/07 04:44:00.244 - MENSAJE: FrondEnd-btn_ArqueoTotal_Click -> Presion boton Arqueo Total.
+2020/10/07 04:44:01.926 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:44:39.048 - MENSAJE: Presenter-RegistrarArqueo: OK ID_Arqueo: 145653
+2020/10/07 04:44:40.700 - MENSAJE: Presenter-ConfirmarOperacion: 
+2020/10/07 04:44:40.711 - MENSAJE: Presenter-ConfirmarOperacion -> Valor : 0
+2020/10/07 04:44:40.721 - MENSAJE: Presenter-ConfirmarOperacion -> Producido : 0
+2020/10/07 04:44:40.759 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/07 04:44:57.294 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2020/10/07 04:44:59.333 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2020/10/07 04:44:59.504 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 31621
+2020/10/07 04:44:59.535 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:46:11.245 - MENSAJE: FrondEnd-btn_okCarga_Click -> Carga 140 monedas a Hopper 2
+2020/10/07 04:46:11.414 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 100 Cantidad: 140
+2020/10/07 04:46:11.452 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:46:26.331 - MENSAJE: FrondEnd-btn_okCarga_Click -> Carga 100 monedas a Hopper 3
+2020/10/07 04:46:26.361 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 200 Cantidad: 100
+2020/10/07 04:46:26.379 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:46:55.356 - MENSAJE: FrondEnd-btn_okCarga_Click -> Carga 40 monedas a Hopper 4
+2020/10/07 04:46:55.395 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 500 Cantidad: 40
+2020/10/07 04:46:55.409 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:47:04.565 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/07 04:47:04.596 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:47:04.628 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:47:12.858 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2020/10/07 04:47:12.883 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 31622
+2020/10/07 04:47:12.896 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:47:46.724 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:47:46.751 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:03.164 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:03.180 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:07.204 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:07.222 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:11.520 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:11.547 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:15.333 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:15.357 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:19.227 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:19.240 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:34.613 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:34.636 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:38.534 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:38.555 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:42.443 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:42.462 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:46.752 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:46.771 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:51.053 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:51.074 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:48:56.118 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:48:56.134 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:49:00.089 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:49:00.116 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:49:04.380 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:49:04.404 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:49:09.845 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:49:09.860 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:49:18.547 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:49:18.570 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:49:22.830 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:49:22.856 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:50:25.578 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 2000 Cantidad: 1
+2020/10/07 04:50:25.604 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:51:25.084 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:51:25.103 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:51:29.804 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:51:29.818 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:51:54.865 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 04:51:54.891 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:52:00.407 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:52:00.429 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:52:35.058 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:52:35.081 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:52:39.783 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:52:39.806 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:52:44.524 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:52:44.550 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:52:54.368 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:52:54.393 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:53:04.989 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:53:05.013 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:53:11.644 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 10000 Cantidad: 1
+2020/10/07 04:53:11.667 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:53:19.687 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/07 04:53:19.709 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:53:19.732 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:57:15.798 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 04:57:18.374 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 04:57:18.637 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 04:57:18.701 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 04:57:18.750 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 04:57:18.977 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 04:57:23.002 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 04:57:55.214 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 04:57:59.452 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/10/07 04:58:00.020 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass2
+2020/10/07 05:00:38.413 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 05:00:40.462 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 05:00:40.512 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 05:00:40.549 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:00:40.606 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 05:00:40.770 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 05:00:44.841 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 05:01:17.072 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 05:01:21.091 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/10/07 05:01:21.684 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Cass2
+2020/10/07 05:01:38.918 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Presion boton Aceptar Usuario: 1
+2020/10/07 05:01:39.094 - MENSAJE: FrondEnd-btn_Aceptar_Click -> Ingresa a menu Sistemas: 1
+2020/10/07 05:01:41.199 - MENSAJE: FrondEnd-btn_Carga_Click -> Presion boton Carga.
+2020/10/07 05:01:42.344 - MENSAJE: FrondEnd-btn_CargaMonedas_Click -> Presion boton Carga monedas.
+2020/10/07 05:01:42.583 - MENSAJE: Presenter-RegistrarCarga: OK ID_Carga: 31623
+2020/10/07 05:01:42.608 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:01:51.518 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 05:01:51.538 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:01:55.379 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 05:01:55.404 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:02:26.147 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 05:02:26.174 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:02:30.275 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 05:02:30.301 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:02:46.313 - MENSAJE: Presenter-RegistrarMovimiento:  Denominacion: 5000 Cantidad: 1
+2020/10/07 05:02:46.385 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:03:16.436 - MENSAJE: FrondEnd-Imprimir -> Ingresa a funcion imprimir.
+2020/10/07 05:03:16.487 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:03:16.505 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:03:47.262 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 05:03:49.205 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 05:03:49.309 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 05:03:49.355 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:03:49.401 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 05:03:49.564 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 05:03:53.565 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 05:04:25.729 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 05:04:29.809 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/10/07 05:04:30.426 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Hopper1
+2020/10/07 05:05:51.968 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 05:05:54.142 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 05:05:54.224 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 05:05:54.296 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:05:54.332 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 05:05:54.484 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 05:05:58.532 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 05:06:30.513 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 05:06:34.656 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/10/07 05:06:35.261 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Hopper1
+2020/10/07 05:07:27.117 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/10/07 05:07:29.094 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/10/07 05:07:29.137 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/10/07 05:07:29.171 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/10/07 05:07:29.209 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/10/07 05:07:29.358 - MENSAJE: Presenter-ConectarLector OK
+2020/10/07 05:07:33.363 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/10/07 05:08:05.520 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/10/07 05:08:09.685 - MENSAJE: Presenter-ValidarSaldosMinimos -> Sistema Suspendido - Saldos Insuficientes
+2020/10/07 05:08:10.238 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos Insuficientes en la parte Hopper1

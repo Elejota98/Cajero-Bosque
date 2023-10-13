@@ -1,0 +1,73 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO CLARO\Claro.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\bin\Debug\EGlobal_ATM.Ping.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.Ping.resources
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.csproj.GenerateResource.Cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobal_ATM.Ping\obj\Debug\EGlobal_ATM.Ping.pdb

@@ -1,0 +1,110 @@
+2020/11/18 02:42:54.562 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/18 02:43:05.205 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/18 02:43:05.332 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/18 02:43:05.497 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/18 02:43:05.578 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/18 02:43:05.836 - MENSAJE: Presenter-ConectarLector OK
+2020/11/18 02:43:09.894 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/18 02:43:46.147 - MENSAJE: FrondEnd-ConectarDispositivos -> Hopper2 not Ready
+2020/11/18 02:45:24.760 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/18 02:45:26.890 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/18 02:45:26.915 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/18 02:45:26.952 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/18 02:45:26.989 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/18 02:45:27.192 - MENSAJE: Presenter-ConectarLector OK
+2020/11/18 02:45:31.250 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/18 02:46:07.285 - MENSAJE: FrondEnd-ConectarDispositivos -> Hopper2 not Ready
+2020/11/18 02:46:10.299 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 02:46:10.304 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 02:46:10.403 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 02:46:10.412 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 02:46:10.451 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/18 03:02:03.332 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/18 03:02:12.523 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/18 03:02:12.586 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/18 03:02:12.659 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/18 03:02:12.702 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/18 03:02:12.906 - MENSAJE: Presenter-ConectarLector OK
+2020/11/18 03:02:16.904 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/18 03:02:53.015 - MENSAJE: FrondEnd-ConectarDispositivos -> Hopper2 not Ready
+2020/11/18 03:02:58.329 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:02:58.336 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:02:58.342 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/18 03:03:34.111 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/18 03:03:36.351 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/18 03:03:36.380 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/18 03:03:36.430 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/18 03:03:36.478 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/18 03:03:48.668 - MENSAJE: Presenter-ConectarLector OK
+2020/11/18 03:03:52.729 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/18 03:04:43.045 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/18 03:04:43.300 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/18 03:04:44.278 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 03:04:44.285 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 03:04:44.355 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:04:44.361 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:06:07.105 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/18 03:06:09.435 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/18 03:06:09.465 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/18 03:06:09.506 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/18 03:06:09.546 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/18 03:06:09.752 - MENSAJE: Presenter-ConectarLector OK
+2020/11/18 03:06:13.741 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/18 03:07:14.576 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/18 03:07:14.840 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/18 03:07:16.194 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:07:16.202 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/18 03:07:23.505 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/18 03:07:23.524 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/18 03:07:23.873 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 5E69C9CB
+2020/11/18 03:07:23.937 - MENSAJE: ObtenerAutorizado Error
+2020/11/18 03:07:26.744 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/18 03:07:26.843 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201118143331115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/18 03:07:27.111 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/18 03:07:27.119 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/18 03:07:27.228 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201118143331115
+2020/11/18 03:07:27.236 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/18 03:10:13.711 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/18 03:11:33.069 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/18 03:11:49.236 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/18 03:11:56.528 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/18 03:11:56.540 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/18 03:11:56.802 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 5E69C9CB
+2020/11/18 03:11:56.824 - MENSAJE: ObtenerAutorizado Error
+2020/11/18 03:12:02.587 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/18 03:12:02.676 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201118143331115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/18 03:12:02.736 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/18 03:12:02.747 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/18 03:12:02.820 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201118143331115
+2020/11/18 03:12:02.827 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/18 03:12:18.968 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/18 03:12:23.440 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/18 03:13:02.802 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/18 03:13:09.726 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/18 03:13:09.739 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/18 03:13:10.042 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 5E69C9CB
+2020/11/18 03:13:10.059 - MENSAJE: ObtenerAutorizado Error
+2020/11/18 03:13:17.368 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/18 03:13:17.470 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201118143331115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/18 03:13:17.533 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/18 03:13:17.544 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/18 03:13:17.625 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201118143331115
+2020/11/18 03:13:17.637 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/18 03:13:27.157 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/18 03:13:27.257 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/18 03:13:27.278 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/18 03:13:32.730 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 0
+2020/11/18 03:13:32.748 - MENSAJE: Presenter-Tarjeta sin convenio
+2020/11/18 03:13:33.074 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: 5E69C9CB
+2020/11/18 03:13:33.095 - MENSAJE: ObtenerAutorizado Error
+2020/11/18 03:13:33.110 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/18 03:13:33.207 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201118143331115 REPO = False TipoVehiculo = 1 Codigo = 0
+2020/11/18 03:13:33.277 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/18 03:13:33.288 - MENSAJE: Presenter-IVA 615 SUBTOTAL 3235 TOTAL 3850
+2020/11/18 03:13:33.364 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201118143331115
+2020/11/18 03:13:33.376 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3850
+2020/11/18 03:13:36.694 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 03:13:36.703 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 3: Not Found
+2020/11/18 03:13:36.910 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/18 03:13:37.022 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/18 03:13:37.042 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK

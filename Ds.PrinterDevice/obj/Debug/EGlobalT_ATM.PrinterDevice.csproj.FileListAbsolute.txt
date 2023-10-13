@@ -1,0 +1,63 @@
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Users\GTOVAR\Documents\Proyectos\EGLOBAL PROYECTOS\AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO AGROCAMPO\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO COMPUSAFECOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SMARTCOIN\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+D:\Mis Documentos\Fuentes\SmartCoinOld\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+D:\Mis Documentos\Fuentes\SmartCoin_Ccastillo\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Users\cechece\Desktop\SmartCoinWeed\Fuentes\EGlobal_Solucion\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.PrinterDevice.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.dll
+C:\Proyectos\Payment\Desarrollo Coin1\EGlobalT_ATM.PrinterDevice\obj\Debug\EGlobalT_ATM.PrinterDevice.pdb

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FF88AF37-1850-421C-A833-1F0E75B87D19}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ds.BusinessObjects</RootNamespace>
+    <AssemblyName>Ds.BusinessObjects</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EGlobalT.Device.SmartCard">
+      <HintPath>..\Ds.Library\EGlobalT.Device.SmartCard.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.Apdu">
+      <HintPath>..\Ds.Library\GS.Apdu.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.CSharpPCSC">
+      <HintPath>..\Ds.Library\GS.CSharpPCSC.dll</HintPath>
+    </Reference>
+    <Reference Include="GS.HexLibrary">
+      <HintPath>..\Ds.Library\GS.HexLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataTransferObject\DtoAutorizado.cs" />
+    <Compile Include="DataTransferObject\DtoDatosLiquidacion.cs" />
+    <Compile Include="DataTransferObject\DtoTarjetas.cs" />
+    <Compile Include="DataTransferObject\RootObjectPagoPrepago.cs" />
+    <Compile Include="DataTransferObject\RootObjectPagoDatafono.cs" />
+    <Compile Include="DataTransferObject\RootObjectPagoEfectivo.cs" />
+    <Compile Include="DataTransferObject\RootObjectPagoCelular.cs" />
+    <Compile Include="DataTransferObject\Datos.cs" />
+    <Compile Include="DataTransferObject\RootObjectCelular.cs" />
+    <Compile Include="DataTransferObject\Dato.cs" />
+    <Compile Include="DataTransferObject\RootObject.cs" />
+    <Compile Include="DataTransferObject\DtoFactura.cs" />
+    <Compile Include="DataTransferObject\DtoParteModuloF56.cs" />
+    <Compile Include="DataTransferObject\DtoTransacciones.cs" />
+    <Compile Include="DataTransferObject\DtoLogMovimiento.cs" />
+    <Compile Include="DataTransferObject\DtoCotizador.cs" />
+    <Compile Include="DataTransferObject\DtoIngresos.cs" />
+    <Compile Include="DataTransferObject\DtoAccion.cs" />
+    <Compile Include="DataTransferObject\DtoArqueo.cs" />
+    <Compile Include="DataTransferObject\DtoConsultarCiudades.cs" />
+    <Compile Include="DataTransferObject\DtoModulo.cs" />
+    <Compile Include="DataTransferObject\DtoOperacion.cs" />
+    <Compile Include="DataTransferObject\DtoPago.cs" />
+    <Compile Include="DataTransferObject\DtoParametro.cs" />
+    <Compile Include="DataTransferObject\DtoParteModulo.cs" />
+    <Compile Include="DataTransferObject\DtoPerfil.cs" />
+    <Compile Include="DataTransferObject\DtoSaldos.cs" />
+    <Compile Include="DataTransferObject\DtoUsuario.cs" />
+    <Compile Include="Entities\Alarma.cs" />
+    <Compile Include="Entities\Arqueo.cs" />
+    <Compile Include="Entities\ConexionDispositivo.cs" />
+    <Compile Include="Entities\ConsultarCiudades.cs" />
+    <Compile Include="Entities\Carga.cs" />
+    <Compile Include="Entities\ConsultarValorResult.cs" />
+    <Compile Include="Entities\ConsultarPagoCelularResult.cs" />
+    <Compile Include="Entities\Autorizado.cs" />
+    <Compile Include="Entities\RegistrarPagoSmartResult.cs" />
+    <Compile Include="Entities\TarjetaSmart.cs" />
+    <Compile Include="Entities\RegistrarPagoTarjetaResult.cs" />
+    <Compile Include="Entities\Ticket.cs" />
+    <Compile Include="Entities\RegistrarPagoEfectivoResult.cs" />
+    <Compile Include="Entities\RegistrarPagoCelularResult.cs" />
+    <Compile Include="Entities\EstadoModulo.cs" />
+    <Compile Include="Entities\MyRegistro.cs" />
+    <Compile Include="Entities\Imagen.cs" />
+    <Compile Include="Entities\LogMovimiento.cs" />
+    <Compile Include="Entities\Cotizar.cs" />
+    <Compile Include="Entities\Items.cs" />
+    <Compile Include="Entities\ListadoArqueo.cs" />
+    <Compile Include="Entities\Item.cs" />
+    <Compile Include="Entities\DispositivoPago.cs" />
+    <Compile Include="Entities\LogWS.cs" />
+    <Compile Include="Entities\Modulo.cs" />
+    <Compile Include="Entities\Movimiento.cs" />
+    <Compile Include="Entities\Pago.cs" />
+    <Compile Include="Entities\Operacion.cs" />
+    <Compile Include="Entities\PagoEfectivo.cs" />
+    <Compile Include="Entities\ParteModulo.cs" />
+    <Compile Include="Entities\PaymentEvent.cs" />
+    <Compile Include="Entities\PCSC_Reader.cs" />
+    <Compile Include="Entities\ProductoTicket.cs" />
+    <Compile Include="Entities\ResultadoOperacion.cs" />
+    <Compile Include="Entities\SCARD_Enum.cs" />
+    <Compile Include="Entities\SCARD_ErrorCodes.cs" />
+    <Compile Include="Entities\SCARD_Structs.cs" />
+    <Compile Include="Entities\Sede.cs" />
+    <Compile Include="Entities\Tarjeta.cs" />
+    <Compile Include="Entities\TicketAgroCampo.cs" />
+    <Compile Include="Entities\TicketArqueo.cs" />
+    <Compile Include="Entities\TicketCarga.cs" />
+    <Compile Include="Entities\Transaccion.cs" />
+    <Compile Include="Entities\TransaccionEfectivo.cs" />
+    <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="Entities\WinSCardAPI_Wrapper.cs" />
+    <Compile Include="Entities\WinSCard_Exception.cs" />
+    <Compile Include="Entities\WinSCard_Methods.cs" />
+    <Compile Include="Entities\WinSCard_Properties.cs" />
+    <Compile Include="Enums\Denominaciones.cs" />
+    <Compile Include="Enums\EstadoImpresora.cs" />
+    <Compile Include="Enums\Pantalla.cs" />
+    <Compile Include="Enums\Parametros.cs" />
+    <Compile Include="Enums\PaymentManagerEnums.cs" />
+    <Compile Include="Enums\TimeOut.cs" />
+    <Compile Include="Enums\TipoAdministracionDenominacion.cs" />
+    <Compile Include="Enums\TipoAlarma.cs" />
+    <Compile Include="Enums\TipoBusqueda.cs" />
+    <Compile Include="Enums\TipoConexionDispositivo.cs" />
+    <Compile Include="Enums\TipoDenominacion.cs" />
+    <Compile Include="Enums\TipoEstadoPago.cs" />
+    <Compile Include="Enums\TipoMedioPago.cs" />
+    <Compile Include="Enums\TipoMovimiento.cs" />
+    <Compile Include="Enums\TipoOperacion.cs" />
+    <Compile Include="Enums\TipoPago.cs" />
+    <Compile Include="Enums\TipoParte.cs" />
+    <Compile Include="Enums\TipoRespuesta.cs" />
+    <Compile Include="Enums\TipoValidarSaldosMinimos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

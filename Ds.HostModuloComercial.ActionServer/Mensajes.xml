@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfiguracionMensaje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <Mensaje>
+    <Code>BaseDatos_Err_Eliminar</Code>
+    <Language>ES</Language>
+    <Description>Error eliminando ID de Registro : {0}, Tabla : {1}.</Description>
+    <Modulo>General</Modulo>
+  </Mensaje>
+
+
+</ConfiguracionMensaje>

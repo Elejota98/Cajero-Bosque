@@ -1,0 +1,14 @@
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobalT_ATM.PLCDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobalT_ATM.PLCDevice.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobal_ATM.Utilidades.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\Modbus.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\log4net.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\Unme.Common.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobalT_ATM.BusinessObjects.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\bin\Debug\EGlobal_ATM.Utilidades.pdb
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\obj\x86\Debug\EGlobalT_ATM.PLCDevice.csprojResolveAssemblyReference.cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\obj\x86\Debug\EGlobalT_ATM.PLCDevice.Properties.Resources.resources
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\obj\x86\Debug\EGlobalT_ATM.PLCDevice.csproj.GenerateResource.Cache
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\obj\x86\Debug\EGlobalT_ATM.PLCDevice.dll
+C:\PrOyEcToS_PaYmEnT\DESARROLLO SERVIENTREGA\EGlobalT_ATM.PLCDevice\obj\x86\Debug\EGlobalT_ATM.PLCDevice.pdb

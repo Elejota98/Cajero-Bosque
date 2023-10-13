@@ -1,0 +1,235 @@
+2020/11/10 06:37:58.584 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/10 06:38:05.193 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/10 06:38:05.240 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/10 06:38:05.287 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/10 06:38:05.318 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/10 06:38:05.490 - MENSAJE: Presenter-ConectarLector OK
+2020/11/10 06:38:45.866 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 06:38:45.876 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 06:38:45.886 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/10 06:38:46.076 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 06:38:59.401 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/10 06:40:57.445 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 06:40:57.515 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 06:40:57.515 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 06:40:57.785 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 06:40:57.965 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 06:40:58.005 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 06:40:58.095 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 06:40:58.275 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/10 06:40:58.290 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/11/10 06:40:58.500 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201110175800301
+2020/11/10 06:40:58.510 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/11/10 06:41:01.385 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/10 06:41:01.605 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/10 06:41:01.615 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:09:02.440 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:09:02.621 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:09:02.630 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:09:02.880 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:09:02.971 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:09:02.990 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:09:03.041 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:09:03.171 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/10 07:09:03.180 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/11/10 07:09:03.271 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201110175800301
+2020/11/10 07:09:03.280 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/11/10 07:11:06.715 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/10 07:11:06.949 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/10 07:11:06.980 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:11:12.530 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:11:12.609 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:11:12.625 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:11:12.890 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:11:13.099 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:11:13.149 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:11:13.179 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:11:14.969 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/10 07:11:14.985 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/11/10 07:11:15.069 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201110175800301
+2020/11/10 07:11:15.085 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/11/10 07:11:20.235 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/10 07:11:20.400 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/10 07:11:20.430 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:11:52.940 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/10 07:11:55.694 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/10 07:11:55.725 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/10 07:11:55.766 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/10 07:11:55.804 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/10 07:11:55.975 - MENSAJE: Presenter-ConectarLector OK
+2020/11/10 07:12:00.002 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/10 07:12:32.144 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:12:32.156 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:12:32.166 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/10 07:12:36.372 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:12:38.966 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:12:39.108 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:12:39.120 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:12:39.432 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:12:39.590 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:12:39.637 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:13:19.619 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:20:58.171 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/10 07:21:01.612 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/10 07:21:01.925 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/10 07:21:02.238 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/10 07:21:02.637 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/10 07:21:02.815 - MENSAJE: Presenter-ConectarLector OK
+2020/11/10 07:21:06.904 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/10 07:21:39.245 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:21:39.257 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:21:39.272 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/10 07:21:43.219 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:21:47.382 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:21:47.529 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:21:47.540 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:21:47.829 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:21:47.981 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:21:48.025 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:22:08.386 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:09:50.552 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/10 07:09:52.804 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/10 07:09:52.852 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/10 07:09:52.904 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/10 07:09:52.944 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/10 07:09:53.096 - MENSAJE: Presenter-ConectarLector OK
+2020/11/10 07:09:57.103 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/10 07:10:29.325 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:10:29.343 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:10:29.360 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/10 07:10:33.287 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:10:39.151 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:10:39.301 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:10:39.313 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:10:39.591 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:10:39.831 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:10:39.870 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:10:42.543 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:11:38.815 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/10 07:11:38.825 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/11/10 07:11:39.100 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201110175800301
+2020/11/10 07:11:39.110 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/11/10 07:11:43.958 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/10 07:11:44.203 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/10 07:11:44.224 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:11:51.131 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:11:51.253 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:11:51.265 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:11:51.593 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:11:51.693 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:11:51.717 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:11:53.310 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:12:31.297 - MENSAJE: Presenter-ConsultaValor ok 
+2020/11/10 07:12:31.310 - MENSAJE: Presenter-IVA 479 SUBTOTAL 2521 TOTAL 3000
+2020/11/10 07:12:31.331 - MENSAJE: Presenter-RegistrarOperacion:  ID_Operacion: 20201110175800301
+2020/11/10 07:12:31.340 - MENSAJE: FrondEnd-RegistrarOperacionPago -> Total : 3000
+2020/11/10 07:12:37.123 - MENSAJE: Presenter-AdministrarProcesoCambio Preparando para Efectuar Pago
+2020/11/10 07:12:38.580 - MENSAJE: Presenter-ConfirmarOperacion:  Cancelado
+2020/11/10 07:12:38.846 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:12:41.307 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:12:41.338 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:12:41.344 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:12:41.635 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:12:41.759 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:12:41.777 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:12:44.509 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:13:44.897 - MENSAJE: System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.9952689. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:01:00. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en Ds.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en Ds.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1203
+   en Ds.ServiceProxy.ProxyService.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Modulo\ProxyService_Modulo.cs:línea 2297
+   en ATM.WinForm.Model.Model.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Model\Modulo\Model_Modulo.cs:línea 527
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4278
+2020/11/10 07:15:34.152 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:15:34.207 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:15:34.215 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:15:34.481 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:15:34.679 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:15:34.700 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:15:37.052 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:16:37.308 - MENSAJE: System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.9979983. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:01:00. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Anulada la solicitud: Se excedió el tiempo de espera de la operación.
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en Ds.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en Ds.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1203
+   en Ds.ServiceProxy.ProxyService.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Modulo\ProxyService_Modulo.cs:línea 2297
+   en ATM.WinForm.Model.Model.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Model\Modulo\Model_Modulo.cs:línea 527
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4278
+2020/11/10 07:09:27.872 - MENSAJE: INICIO APP ATM / TestMode = true
+2020/11/10 07:09:30.191 - MENSAJE: Presenter-ObtenerInfoModulo OK 
+2020/11/10 07:09:30.243 - MENSAJE: Presenter-ObtenerInfoFactura OK 
+2020/11/10 07:09:30.300 - MENSAJE: Presenter-ObtenerInfoPartes: 
+2020/11/10 07:09:30.352 - MENSAJE: Presenter-ObtenerInfoParametros OK 
+2020/11/10 07:09:30.504 - MENSAJE: Presenter-ConectarLector OK
+2020/11/10 07:09:34.479 - MENSAJE: Presenter-EventosBilletero FinInicio OK
+2020/11/10 07:10:06.620 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:10:06.633 - MENSAJE: Presenter-RegistrarAlarma ->  Parte:  Descripcion: Hopper 4: Not Found
+2020/11/10 07:10:06.648 - MENSAJE: Presenter-AdministrarConexionMiniHub: Conexión Exitosa Cash Payment Device
+2020/11/10 07:10:10.782 - MENSAJE: Presenter-ValidarSaldosMinimos: Saldos Mínimos OK
+2020/11/10 07:10:16.429 - MENSAJE: Presenter-LeerTarjeta CONVENIO = 5
+2020/11/10 07:10:16.531 - MENSAJE: Presenter-DatosConvenio
+2020/11/10 07:10:16.543 - MENSAJE: Presenter-DatosConvenio NombreConvenio CONVENIO 1 HORA
+2020/11/10 07:10:16.840 - MENSAJE: FrondEnd-ValidarMensualidad IdTarjeta: F2EAC027
+2020/11/10 07:10:17.092 - MENSAJE: ObtenerAutorizado Error
+2020/11/10 07:10:17.126 - MENSAJE: (Presenter ObtenerFechaServer) OK
+2020/11/10 07:10:19.613 - MENSAJE: Presenter-ConsultaValor SecuenciaTransaccion =20201110175800301 REPO = False TipoVehiculo = 1 Codigo = 5
+2020/11/10 07:11:19.889 - MENSAJE: System.TimeoutException: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:00:59.9960015. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.TimeoutException: La solicitud HTTP a 'http://localhost:88/MC_Block_Pass/MC_LiquidacionService.svc' superó el tiempo de espera asignado de 00:01:00. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor. ---> System.Net.WebException: Se excedió el tiempo de espera de la operación
+   en System.Net.HttpWebRequest.GetResponse()
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   en System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+
+Server stack trace: 
+   en System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en Ds.ServiceProxy.MC_LiquidacionService.ILiquidacionService.getDatosLiquidacion(Liquidacion_Request request)
+   en Ds.ServiceProxy.MC_LiquidacionService.LiquidacionServiceClient.getDatosLiquidacion(Liquidacion_Request request) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Service References\MC_LiquidacionService\Reference.cs:línea 1203
+   en Ds.ServiceProxy.ProxyService.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\Ds.ServiceProxy\Modulo\ProxyService_Modulo.cs:línea 2297
+   en ATM.WinForm.Model.Model.ConsultaValor(String sSecuencia, Int32 iTipoVehiculo, Boolean bMensualidad, Boolean bReposicion, String Convenios) en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Model\Modulo\Model_Modulo.cs:línea 527
+   en ATM.WinForm.Presenter.frmPrincipal_Presenter.ConsultaValor() en c:\Users\Parquearse\Documents\CAJERO_CC_FLORIDA\CAJERO_CCFLORIDA\CAJERO\ATM.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 4278
